@@ -97,7 +97,7 @@ experience:
     - company: First Company
       link:
       tags: Full-time, Hybrid
-      date: 2020.09 - Till Date
+      date: 09.2020 - Till Date
       role: DevOps Engineer
       location: Pune
       description: |
@@ -175,9 +175,8 @@ skill:
     - name:	Project Management Tool
       item:
         - Azure-DevOps
-    - name:	Cloud Platforms
+    - name:	Cloud Platform
       item:
-        - AWS
         - Azure
     - name: Operating Systems
       item:
@@ -203,16 +202,16 @@ skill:
       item:
         - npm
         - gulp
-        - yarn
         
     - name:	Virtualization Tools
       item:
         - Docker
         - kubernetes
+
     - name: Automation Tools
       item:
         - Ansible
-        - AWS, Azure CLI
+        - Azure CLI
         - PowerShell scripts
         - Shellscripts
         - Terraform
@@ -244,11 +243,10 @@ education:
       description: |
         + Completed High school from CGBSE in 2009
 
-
 certificate:
   show: false
   order: 6
-  title: Certificates
+  title: Certifications
   description: |
     The certificate section in a resume is a dedicated section where you can showcase any additional certifications or specialized training you have received. This section provides potential employers with a more complete picture of your skills and expertise, and can help you stand out from other candidates.
 
