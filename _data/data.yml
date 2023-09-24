@@ -83,9 +83,10 @@ profile:
   order: 1
   title: Profile
   description: |
-    The profile section in a resume is a brief summary of the applicant's skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant's professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant's career objectives, years of experience, areas of expertise, and key achievements.
-
-    A well-crafted profile section can help to grab the attention of potential employers and encourage them to read on and learn more about the applicant's qualifications and experience.
+      As a DevOps Engineer with 3.4 years of experience, I am dedicated to optimizing software development, deployments, and
+      IT operations for organizations. My expertise lies in automating workflows, ensuring system reliability, and
+      implementing best practices to enhance collaboration between development and operations teams. I excel in managing 
+      cloud infrastructure, orchestrating containers, and implementing CI/CD pipelines for efficient and secure software delivery.
 
 experience:
   show: true
@@ -101,7 +102,7 @@ experience:
       role: DevOps Engineer
       location: Pune
       description: |
-        Key responsibilities and achievements in the company.
+        Key Roles and Responsibilities in the company.
         + Having 3.4+ years of Experience as a DevOps Engineer for deploying Applications based on various technologies.
         + Providing 24x7 support for development environment servers in all the regions.
         + Having experience in CI-CD pipelines formarly known as Build and Release activities.
@@ -382,11 +383,28 @@ evaluation:
   order: 7
   title: Self-evaluation
   description: |
-    The self-evaluation section in a resume is a section where you can evaluate and assess your own skills, strengths, and weaknesses. It is typically a short paragraph or bullet points at the end of your resume, which provides a personal perspective on your abilities and how they align with the requirements of the job.
 
-    In this section, you can highlight your achievements, areas of expertise, and any unique qualities or experiences that set you apart from other candidates. You can also mention areas where you are looking to improve or gain further experience.
+    - Soft Skills:
+        1. Communication: I effectively communicate with cross-functional teams, ensuring transparency and collaboration in DevOps initiatives.
+        2. Problem Solving: I excel in identifying and resolving complex technical challenges and am proactive in troubleshooting.
+        3. Adaptability: I easily adapt to new technologies and tools, keeping up with the evolving DevOps landscape.
+        4. Teamwork: I work well in a team and foster a collaborative environment, emphasizing the importance of a DevOps culture.
 
-    A well-crafted self-evaluation section can demonstrate your self-awareness and confidence in your abilities, as well as your willingness to continuously learn and grow. However, it is important to be honest and avoid over-inflating your skills or qualifications, as this can negatively impact your credibility and the hiring manager's impression of you.
+    - Achievements:
+        + Successfully led the implementation of a CI/CD pipeline, resulting in a 40% reduction in deployment times.
+        + Orchestrated the migration of on-premises applications to Kubernetes, increasing scalability and fault tolerance.
+        + Reduced infrastructure costs by 30% through effective cloud resource management and optimization.
+        + Implemented security practices that led to a 50% decrease in security incidents.
+
+    - Areas for Improvement:
+        1. Advanced Security: I aim to deepen my knowledge of advanced security practices and further strengthen the security posture of our systems.
+        2. Machine Learning/AI Integration: As AI and ML become more prevalent in DevOps, I plan to explore ways to incorporate these technologies into our processes.
+        3. Advanced Cloud Services: I want to expand my expertise in advanced cloud services to optimize resource usage further.
+
+    - Professional Goals:
+        1. Certifications: I plan to earn additional certifications, such as Certified Kubernetes Administrator (CKA) or Azure Certified DevOps Engineer, to enhance my qualifications.
+        2. Mentoring: I aspire to mentor junior DevOps engineers and share my knowledge and experiences to help them grow in their careers.
+        3. Continuous Learning: I am committed to staying updated with industry trends, attending relevant conferences, and participating in online communities to remain a leading expert in DevOps.
 
 reference:
   show: false
