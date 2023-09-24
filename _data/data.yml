@@ -385,10 +385,10 @@ evaluation:
   description: |
 
     - Soft Skills:
-        1. Communication: I effectively communicate with cross-functional teams, ensuring transparency and collaboration in DevOps initiatives.
-        2. Problem Solving: I excel in identifying and resolving complex technical challenges and am proactive in troubleshooting.
-        3. Adaptability: I easily adapt to new technologies and tools, keeping up with the evolving DevOps landscape.
-        4. Teamwork: I work well in a team and foster a collaborative environment, emphasizing the importance of a DevOps culture.
+        + Communication: I effectively communicate with cross-functional teams, ensuring transparency and collaboration in DevOps initiatives.
+        + Problem Solving: I excel in identifying and resolving complex technical challenges and am proactive in troubleshooting.
+        + Adaptability: I easily adapt to new technologies and tools, keeping up with the evolving DevOps landscape.
+        + Teamwork: I work well in a team and foster a collaborative environment, emphasizing the importance of a DevOps culture.
 
     - Achievements:
         + Successfully led the implementation of a CI/CD pipeline, resulting in a 40% reduction in deployment times.
@@ -397,14 +397,14 @@ evaluation:
         + Implemented security practices that led to a 50% decrease in security incidents.
 
     - Areas for Improvement:
-        1. Advanced Security: I aim to deepen my knowledge of advanced security practices and further strengthen the security posture of our systems.
-        2. Machine Learning/AI Integration: As AI and ML become more prevalent in DevOps, I plan to explore ways to incorporate these technologies into our processes.
-        3. Advanced Cloud Services: I want to expand my expertise in advanced cloud services to optimize resource usage further.
+        + Advanced Security: I aim to deepen my knowledge of advanced security practices and further strengthen the security posture of our systems.
+        + Machine Learning/AI Integration: As AI and ML become more prevalent in DevOps, I plan to explore ways to incorporate these technologies into our processes.
+        + Advanced Cloud Services: I want to expand my expertise in advanced cloud services to optimize resource usage further.
 
     - Professional Goals:
-        1. Certifications: I plan to earn additional certifications, such as Certified Kubernetes Administrator (CKA) or Azure Certified DevOps Engineer, to enhance my qualifications.
-        2. Mentoring: I aspire to mentor junior DevOps engineers and share my knowledge and experiences to help them grow in their careers.
-        3. Continuous Learning: I am committed to staying updated with industry trends, attending relevant conferences, and participating in online communities to remain a leading expert in DevOps.
+        + Certifications: I plan to earn additional certifications, such as Certified Kubernetes Administrator (CKA) or Azure Certified DevOps Engineer, to enhance my qualifications.
+        + Mentoring: I aspire to mentor junior DevOps engineers and share my knowledge and experiences to help them grow in their careers.
+        + Continuous Learning: I am committed to staying updated with industry trends, attending relevant conferences, and participating in online communities to remain a leading expert in DevOps.
 
 reference:
   show: false
