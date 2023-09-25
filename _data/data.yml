@@ -147,10 +147,10 @@ skill:
   description: |
     + Utilized Linux skills on deployment servers to make sure the servers are up and running.
     + Hands on experience with Devops tools like Git, Maven, Ansible, Docker, k8s, Elastic Stack, etc.
-    + A good knowledge in setting up Baselines, Branching, Merging and Automation Processes using Shell Scripting.
+    + Ability to automate the repetitive tasks using Azure CLI/PowerShell/Templates.
     +	Expertise in Installations, Configuration, Administration and Maintenance of CI-CD tools like Jenkins and Azure-DevOps.
     + Also good knowledge in Configuration management tools like Ansible and Terraform.
-    + Given that the situation, I prepare Manifests for k8s clusters, Dockerfile for Docker, playbooks for Ansible and Terraform scripts for Terraform
+    + Given the situation, I prepare Manifests for k8s clusters, Dockerfile for Docker, playbooks for Ansible and scripts for Terraform as well.
 
   # items:
   #   - name: Skill A
