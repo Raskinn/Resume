@@ -231,7 +231,7 @@ education:
   items:
     - institution: RTMN University
       link: '#'
-      date: 09-2015
+      date: 09.2015
       major: Information Technology
       degree: Bachelor
       description: |
@@ -239,7 +239,7 @@ education:
 
     - institution: Chhattisgarh Board of Secondary Education
       link:
-      date: 03-2009
+      date: 03.2009
       major: Science
       degree: High School
       description: |
@@ -393,7 +393,7 @@ evaluation:
 
     - Achievements:
         + Cloud Optimization: Optimized cloud infrastructure on Azure, resulting in substantial cost savings while maintaining high availability and performance.
-        + CI/CD Pipeline Implementation: Successfully led the implementation of a CI/CD pipeline, resulting in a 40% reduction in deployment times.
+        + CI/CD Pipeline Implementation: Successfully led the implementation of a CI/CD pipeline, resulting 40% reduction in deployment time.
         + Scripting and Automation: Developed scripts in bash, PowerShell and other tools like playbooks for Ansible, Manifests for kubernetes, etc. to automate repetitive tasks, reducing manual efforts and minimizing errors in day-to-day operations.
         + Containerization and Orchestration: Led the adoption of containerization technologies like Docker and container orchestration platforms like Kubernetes, resulting in more scalable and fault-tolerant application deployments.
         + Monitoring and Alerting: Implemented robust monitoring and alerting systems using ELK Stack, enabling proactive issue detection and faster incident response. 
