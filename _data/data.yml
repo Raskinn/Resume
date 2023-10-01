@@ -109,7 +109,7 @@ experience:
         + Having experience in CI-CD pipelines formarly known as Build and Release activities.
         +	Experience on working with Docker containers infrastructure and Continuous Integration for building & deploying Docker containers.
         +	Responsible for orchestrating CI-CD pipelines by responding to Git triggers, human input, dependency chains and environment setup.
-        + Deploying applications on Java, .NET, python, nodejs using CI-CD Engines.
+        + Deploying applications on Java, .NET, python, NodeJS using CI-CD Engines.
 
 project:
   show: false
