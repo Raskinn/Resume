@@ -231,19 +231,19 @@ education:
   items:
     - institution: RTMN University
       link: '#'
-      date: 2015
+      date: 09-2015
       major: Information Technology
       degree: Bachelor
       description: |
-        + Completed Bachelor of Engineering in Information Technology from R.T.M. Nagpur University in 2015.
+        + Completed Bachelor of Engineering in Information Technology from R.T.M. Nagpur University.
 
     - institution: Chhattisgarh Board of Secondary Education
       link:
-      date: 2009
+      date: 03-2009
       major: Science
       degree: High School
       description: |
-        + Completed High school from CGBSE in 2009
+        + Completed High school from CGBSE.
 
 certificate:
   show: false
