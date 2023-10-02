@@ -177,24 +177,28 @@ skill:
     - name:	Project Management Tool
       item:
         - Azure-DevOps
+
     - name:	Cloud Platform
       item:
         - Azure
+
     - name: Operating Systems
       item:
         - CentOS 7,8
         - RedHat 8,9
         - Ubuntu 18.04,20.04,22.04
         - Windows 10,11
+
     - name:	Applications
       item:
-        - GitHub
+        - Git, GitHub
         - CI-CD Engines (Jenkins, Azure-DevOps)
+
     - name:	Build Tool (Java)
       item:
       - Gradle
       - Maven
-        
+
     - name:	Build Tool (.NET)
       item:
         - dotnet build
@@ -203,12 +207,11 @@ skill:
     - name:	Build Tool (nodejs)
       item:
         - npm
-        - gulp
-        
+
     - name:	Virtualization Tools
       item:
-        - Docker
-        - kubernetes
+        - Docker with kubernetes
+        - Azure Kubernetes Service (AKS)
 
     - name: Automation Tools
       item:
@@ -217,7 +220,7 @@ skill:
         - PowerShell scripts
         - Shellscripts
         - Terraform
-        
+
     - name: Monitoring Tool
       item:
         - Elastic Stack
