@@ -201,10 +201,10 @@ skill:
       item:
         - npm
 
-    - name:	Virtualization Tools
+    - name:	Container Technologies
       item:
-        - Docker with kubernetes
-        - Azure Kubernetes Service (AKS)
+        - Docker
+        - Kubernetes, (AKS)
 
     - name: Automation Tools
       item:
