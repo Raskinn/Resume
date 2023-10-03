@@ -227,7 +227,7 @@ education:
   items:
     - institution: RTMN University
       link: '#'
-      date: 09.2015
+      date: '09.2015'
       major: Information Technology
       degree: Bachelor
       description: |
@@ -235,7 +235,7 @@ education:
 
     - institution: Chhattisgarh Board of Secondary Education
       link:
-      date: 03.2009
+      date: '03.2009'
       major: Science
       degree: High School
       description: |
