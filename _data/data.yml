@@ -105,11 +105,28 @@ experience:
       description: |
         Key Roles and Responsibilities in the company.
         + Having 3.4+ years of Experience as a DevOps Engineer for deploying Applications based on various technologies.
-        + Providing 24x7 support for development environment servers in all the regions.
-        + Having experience in CI-CD pipelines formarly known as Build and Release activities.
-        +	Experience on working with Docker containers infrastructure and Continuous Integration for building & deploying Docker containers.
-        +	Responsible for orchestrating CI-CD pipelines by responding to Git triggers, human input, dependency chains and environment setup.
+        + Working with cross functional, geographically distributed team to provide 24x7 deployment support across multiple environments.
+        + Participation in project meetings with other technical staff and business/product owners and subject matter experts.
+        +	Build engineering automation and productivity tools to streamline deployment pipeline.
+        + Setup DEV, QA and UAT environments for every sprint using Ansible.
         + Deploying applications on Java, .NET, python, NodeJS using CI-CD Engines.
+        + Help Development teams automate the environment setup using Ansible.
+        + Automation of the compilation, continuous integration, testing, packaging and distribution of software.
+        + Responsible for orchestrating CI-CD pipelines by responding to Git triggers, human input, dependency chains and environment setup.
+        + Managing Continuous Integration and Continuous Delivery (CI/CD) using Jenkins/Azure-Devops and release management using SonarQube.
+        + Configuring the Day and Night Builds for the sprint teams in Jenkins/Azure-Devops.
+        + Support the engineering teams regarding CI/Build tools, Environments and Automation.
+        + Experience on working with Docker containers infrastructure and Continuous Integration for building & deploying Docker containers.
+        +	Created dockerfiles for easier replication of DEV, QA Environments in local machines.
+        +
+        + Setting up and maintaining monitoring & alert systems for servers.
+        + Setup and maintain log-monitoring using Elastic Search, LogStash and Kibana.
+        + Troubleshoot and resolve issues related to application deployment and operations.
+        + Working with various cross-functional engineering specialists, project managers and application development teams to define and implement a cloud-based hosting solution.
+        + Setting backups / replications / archiving, implement disaster recovery.
+        + Automation of DB / Server maintenance Activities.
+        + Managing patches/software upgrades in servers.
+        + Reviewing the technical architecture requirements to assess the DevOps Activities.
 
 project:
   show: false
@@ -147,11 +164,26 @@ skill:
   title: Technical Skills
   description: |
     + Utilized Linux skills on deployment servers to make sure the servers are up and running.
-    + Hands on experience with Devops tools like Git, Maven, Ansible, Docker, k8s, Elastic Stack, etc.
+    + Hands on experience with Devops tools like Git, Maven, Terraform, Ansible, Docker, k8s, Elastic Stack, etc.
+    + Deep knowledge of CI (Continuous Integration) and CD (Continuous Deployment) methodologies with Jenkins and Azure-DevOps.
+    + Build Management: Experience in tools such as Jenkins, Maven, JFrog for build management.
+    + Hands on experience with Configuration Management Tools such as Terraform and Ansible.
+    + Worked for Agile Projects.
+    + Hands on experience with SCM tools like Git for branching, tagging and version management.
+    + Hands on experience with code coverage tools like SonarQube.
+    + Hands on Linux Administration (Installation, Configuration & Troubleshooting).
+    + Database Configuration experience on MySQL.
+    + Hands scripting with Shell Scripting.
+    + Hands on experience on cloud deployments using DevOps tools like Jenkins and Azure-DevOps.
+    + Extensive Experience in Jekins master-slave for multi machine builds.
+    + Hand on experience in delivering container based deployments using Docker and Kubernetes.
+    + Having knowledge on setting up and managing Docker private repositories.
+    + Having experience in creating custom Docker Images using Dockerfile.
+    + Having knowledge on Docker Clustering using Swarm.
+    + Hands on experience on Playbooks development for the automation using Ansible.
     + Ability to automate the repetitive tasks using Azure CLI/PowerShell/Templates.
     +	Expertise in Installations, Configuration, Administration and Maintenance of CI-CD tools like Jenkins and Azure-DevOps.
-    + Also good knowledge in Configuration management tools like Ansible and Terraform.
-    + Given the situation, I prepare Manifests for k8s clusters, Dockerfile for Docker, playbooks for Ansible and scripts for Terraform as well.
+    + Given the situation, I prepare Manifests for k8s clusters, Dockerfile for Docker, playbooks for Ansible and scripts for Terraform.
 
   # items:
   #   - name: Skill A
@@ -216,7 +248,7 @@ skill:
 
     - name: Monitoring Tool
       item:
-        - Elastic Stack
+        - Elastic Stack (ELK Stack)
 
 education:
   show: true
