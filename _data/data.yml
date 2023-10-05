@@ -164,12 +164,12 @@ skill:
   title: Technical Skills
   description: |
     + Utilized Linux skills on deployment servers to ensure the servers are up and running.
+    + Experience in all project phases using Waterfall and Agile Methodologies.
     + Hands on experience with Devops tools like Git, Maven, Terraform, Ansible, Docker, k8s, Elastic Stack, etc.
+    + Hands on experience with SCM tools like Git for branching, tagging and version management.
     + Deep knowledge of CI (Continuous Integration) and CD (Continuous Deployment) methodologies with Jenkins and Azure-DevOps.
     + Build Management: Experience in tools such as Jenkins, Maven, JFrog for build management.
     + Hands on experience with Configuration Management Tools such as Terraform and Ansible.
-    + Experience in all project phases using Waterfall and Agile Methodologies.
-    + Hands on experience with SCM tools like Git for branching, tagging and version management.
     + Hands on experience with code coverage tools like SonarQube.
     + Database Configuration experience on MySQL.
     + Hands on scripting with Shell Scripting.
