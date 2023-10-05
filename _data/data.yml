@@ -217,7 +217,11 @@ skill:
       item:
         - Git
         - GitHub
-        - CI-CD Engines (Jenkins, Azure-DevOps)
+
+    - name:	CI-CD Engines
+      item:
+        - Jenkins
+        - Azure-DevOps
 
     - name:	Build Tool (Java)
       item:
