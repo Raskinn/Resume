@@ -215,7 +215,8 @@ skill:
 
     - name:	Applications
       item:
-        - Git, GitHub
+        - Git
+        - GitHub
         - CI-CD Engines (Jenkins, Azure-DevOps)
 
     - name:	Build Tool (Java)
