@@ -174,8 +174,8 @@ skill:
     + Database Configuration experience on MySQL.
     + Hands on scripting with Shell Scripting.
     + Hands on experience on cloud deployments using DevOps tools like Jenkins and Azure-DevOps.
-    + Extensive Experience in Jekins master-slave for multi machine builds.
-    + Hand on experience in delivering container based deployments using Docker and Kubernetes.
+    + Extensive Experience in Jenkins master-slave for multi machine builds.
+    + Hands on experience in delivering container based deployments using Docker and Kubernetes.
     + Having knowledge on setting up and managing Docker private repositories.
     + Having experience in creating custom Docker Images using Dockerfile.
     + Having knowledge on Docker Clustering using Swarm.
@@ -221,7 +221,7 @@ skill:
     - name:	CI-CD Engines
       item:
         - Jenkins
-        - Azure-DevOps
+        - Azure DevOps
 
     - name:	Build Tool (Java)
       item:
