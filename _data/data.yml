@@ -246,7 +246,6 @@ skill:
       item:
         - Ansible
         - ARM Templates
-        - PowerShell scripts
         - Shellscripts
         - Terraform
 
