@@ -205,7 +205,7 @@ skill:
   #     level: 3
 
   groups:
-    - name:	Project Management Tool
+    - name:	Project Management
       item:
         - Azure-DevOps
 
