@@ -168,11 +168,11 @@ skill:
     + Deep knowledge of CI (Continuous Integration) and CD (Continuous Deployment) methodologies with Jenkins and Azure-DevOps.
     + Build Management: Experience in tools such as Jenkins, Maven, JFrog for build management.
     + Hands on experience with Configuration Management Tools such as Terraform and Ansible.
-    + Worked for Agile Projects.
+    + Experience in all project phases using Waterfall and Agile Methodologies.
     + Hands on experience with SCM tools like Git for branching, tagging and version management.
     + Hands on experience with code coverage tools like SonarQube.
     + Database Configuration experience on MySQL.
-    + Hands scripting with Shell Scripting.
+    + Hands on scripting with Shell Scripting.
     + Hands on experience on cloud deployments using DevOps tools like Jenkins and Azure-DevOps.
     + Extensive Experience in Jekins master-slave for multi machine builds.
     + Hand on experience in delivering container based deployments using Docker and Kubernetes.
@@ -182,7 +182,7 @@ skill:
     + Hands on experience on Playbooks development for the automation using Ansible.
     + Ability to automate the repetitive tasks using Azure CLI/PowerShell/Templates.
     +	Expertise in Installations, Configuration, Administration and Maintenance of CI-CD tools like Jenkins and Azure-DevOps.
-    + Given the situation, I prepare Manifests for k8s clusters, Dockerfile for Docker, playbooks for Ansible and scripts for Terraform.
+    + Given the situation, I prepare Manifests for k8s clusters, Dockerfiles for Docker, Playbooks for Ansible and scripts for Terraform.
 
   # items:
   #   - name: Skill A
