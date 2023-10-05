@@ -84,7 +84,7 @@ profile:
   order: 1
   title: Profile
   description: |
-      As a DevOps Engineer with 3.4 years of experience, I am dedicated to optimizing software development, deployments, and
+      As a DevOps Engineer with 3.4 years of experience, I am dedicated to optimize software development, deployments, and
       IT operations for organizations. My expertise lies in automating workflows, ensuring system reliability, and
       implementing best practices to enhance collaboration between development and operations teams. I excel in managing 
       cloud infrastructure, orchestrating containers, and implementing CI/CD pipelines for efficient and secure software delivery.
@@ -171,7 +171,6 @@ skill:
     + Worked for Agile Projects.
     + Hands on experience with SCM tools like Git for branching, tagging and version management.
     + Hands on experience with code coverage tools like SonarQube.
-    + Hands on Linux Administration (Installation, Configuration & Troubleshooting).
     + Database Configuration experience on MySQL.
     + Hands scripting with Shell Scripting.
     + Hands on experience on cloud deployments using DevOps tools like Jenkins and Azure-DevOps.
