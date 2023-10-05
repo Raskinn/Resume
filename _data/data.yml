@@ -241,7 +241,7 @@ skill:
     - name: Automation Tools
       item:
         - Ansible
-        - Azure CLI
+        - ARM Templates
         - PowerShell scripts
         - Shellscripts
         - Terraform
