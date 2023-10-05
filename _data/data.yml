@@ -91,7 +91,7 @@ profile:
 
 experience:
   show: true
-  order: 2
+  order: 3
   title: Experience
   description: |
 
@@ -160,7 +160,7 @@ project:
 
 skill:
   show: true
-  order: 3
+  order: 2
   title: Technical Skills
   description: |
     + Utilized Linux skills on deployment servers to ensure the servers are up and running.
