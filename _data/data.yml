@@ -177,7 +177,6 @@ skill:
     + Hands on experience with Configuration Management Tools such as Terraform and Ansible.
     + Hands on experience with code coverage tools like SonarQube.
     + Database Configuration experience on MySQL.
-    + Hands on scripting with Shell Scripting.
     + Hands on experience on cloud deployments using DevOps tools like Jenkins and Azure-DevOps.
     + Extensive Experience in Jenkins master-slave for multi machine builds.
     + Hands on experience in delivering container based deployments using Docker and Kubernetes.
@@ -187,7 +186,7 @@ skill:
     + Hands on experience on Playbooks development for the automation using Ansible.
     + Ability to automate the repetitive tasks using Azure CLI/PowerShell/Templates.
     +	Expertise in Installations, Configuration, Administration and Maintenance of CI-CD tools like Jenkins and Azure-DevOps.
-    + Given the situation, I prepare Manifests for k8s clusters, Dockerfiles for Docker, Playbooks for Ansible and scripts for Terraform.
+    + Given the situation, I prepare azure-pipelines for Azure DevOps, Manifests for k8s clusters, Dockerfiles for Docker, scripts for Terraform, and Playbooks for Ansible.
 
   # items:
   #   - name: Skill A
