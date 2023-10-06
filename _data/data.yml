@@ -126,7 +126,7 @@ experience:
         + Documenting solutions, architectural patterns, and best practices around the Kubernetes environments.
         + Deploying, monitoring, and supporting applications in a Kubernetes environment.
         + Setting up and maintaining monitoring & alert systems for servers.
-        + Setup and maintain log-monitoring using Elastic Search, LogStash and Kibana.
+        + Setup and maintain log-monitoring using LogStash, Elastic Search and Kibana.
         + Troubleshoot and resolve issues related to application deployment and operations.
         + Working with various cross-functional engineering specialists, project managers and application development teams to define and implement a cloud-based hosting solution.
         + Setting backups / replications / archiving, implement disaster recovery.
@@ -223,7 +223,7 @@ skill:
         - Git
         - GitHub
 
-    - name:	CI-CD Engines
+    - name:	CI/CD Engines
       item:
         - Jenkins
         - Azure DevOps
