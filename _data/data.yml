@@ -250,7 +250,7 @@ skill:
       item:
         - Ansible
         - ARM Templates
-        - Shellscripts
+        - Shell Scripting
         - Terraform
 
     - name: Monitoring Tool
