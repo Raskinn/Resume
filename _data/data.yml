@@ -109,27 +109,27 @@ experience:
         + Participation in project meetings with other technical staff and business/product owners and subject matter experts.
         +	Build engineering automation and productivity tools to streamline deployment pipeline.
         + Setup DEV, QA and UAT environments for every sprint using Ansible.
-        + Deploying applications on Java, .NET, python, NodeJS using CI-CD Engines.
+        + Deploying applications on Java, .NET, python, NodeJS using CI/CD Engines.
         + Help Development teams automate the environment setup using Ansible.
         + Automation of the compilation, continuous integration, testing, packaging and distribution of software.
-        + Responsible for orchestrating CI-CD pipelines by responding to Git triggers, human input, dependency chains and environment setup.
+        + Responsible for orchestrating CI/CD pipelines by responding to Git triggers, human input, dependency chains and environment setup.
         + Also responsible for creating the Ansible equivalents of the shell scripts used for deploying the applications or creating Infrastructures.
-        + Managing Continuous Integration and Continuous Delivery (CI/CD) using Jenkins/Azure-Devops and release management using SonarQube.
+        + Managing Continuous Integration and Continuous Delivery (CI/CD) using Jenkins/Azure-Devops and release management using SonarQube/sonarcloud.
         + Configuring the Day and Night Builds for the sprint teams in Jenkins/Azure-Devops.
         + Support the engineering teams regarding CI/Build tools, Environments and Automation.
         + Experience on working with Docker containers infrastructure and Continuous Integration for building & deploying Docker containers.
         +	Created dockerfiles for easier replication of DEV, QA Environments in local machines.
-        + Design from scratch, the architecture for an enterprise Kubernetes infrastructure to support a CI/CD pipeline for Azure-DevOps CI/CD and Jenkins CI/CD
+        + Design from scratch, the architecture for an enterprise Kubernetes infrastructure to support a CI/CD pipeline for Azure-DevOps CI/CD and Jenkins CI/CD.
         + End-to-end Implementation of the Kubernetes architecture - installation, configuration, hardening, networking, etc.
         + Implementing multiple Kubernetes masters for high availability.
         + Cluster sizing and scaling.
+        + Documenting solutions, architectural patterns, and best practices around the Kubernetes environments.
         + Deploying, monitoring, and supporting applications in a Kubernetes environment.
         + Setting up and maintaining monitoring & alert systems for servers.
         + Setup and maintain log-monitoring using Elastic Search, LogStash and Kibana.
         + Troubleshoot and resolve issues related to application deployment and operations.
         + Working with various cross-functional engineering specialists, project managers and application development teams to define and implement a cloud-based hosting solution.
         + Setting backups / replications / archiving, implement disaster recovery.
-        + Automation of DB / Server maintenance Activities.
         + Managing patches/software upgrades in servers.
         + Reviewing the technical architecture requirements to assess the DevOps Activities.
 
