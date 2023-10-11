@@ -7,7 +7,7 @@ basic:
 
 contact:
   # meta
-  location:   Pune, India                   # location
+  location:   Bengaluru, India              # location
   email:      razkyn@outlook.com            # email address
   phone:      +91-7893062989                # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   linkedin:   raskinb
@@ -84,7 +84,7 @@ profile:
   order: 1
   title: Profile
   description: |
-      As a DevOps Engineer with 3.4 years of experience, I am dedicated to optimize software development, deployments, and
+      As a DevOps Engineer with 3.5 years of experience, I am dedicated to optimize software development, deployments, and
       IT operations for the organization. My expertise lies in automating workflows, ensuring system reliability, and
       implementing best practices to enhance collaboration between development and operations teams. I excel in managing 
       cloud infrastructure, orchestrating containers, and implementing CI/CD pipelines for efficient and secure software delivery.
@@ -96,15 +96,15 @@ experience:
   description: |
 
   items:
-    - company: First Company
+    - company: Valley Infosystems Pvt. Ltd.
       link:
       tags: Full-time, Hybrid
-      date: 09.2020 - Till Date
+      date: 05.2020 - Till Date
       role: DevOps Engineer
       location: Pune
       description: |
         Key Roles and Responsibilities in the company.
-        + Having 3.4+ years of Experience as a DevOps Engineer for deploying Applications based on various technologies.
+        + Having 3.5 years of Experience as a DevOps Engineer for deploying Applications based on various technologies.
         + Working with cross functional, geographically distributed team to provide 24x7 deployment support across multiple environments.
         + Participation in project meetings with other technical staff and business/product owners and subject matter experts.
         +	Build engineering automation and productivity tools to streamline deployment pipeline.
