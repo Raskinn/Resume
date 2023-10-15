@@ -84,7 +84,7 @@ profile:
   order: 1
   title: Profile
   description: |
-      As a DevOps Engineer with 3.5 years of experience, I am dedicated to optimize software development, deployments, and
+      As a DevOps Engineer with 3.5+ years of experience, I am dedicated to optimize software development, deployments, and
       IT operations for the organization. My expertise lies in automating workflows, ensuring system reliability, and
       implementing best practices to enhance collaboration between development and operations teams. I excel in managing 
       cloud infrastructure, orchestrating containers, and implementing CI/CD pipelines for efficient and secure software delivery.
@@ -104,7 +104,7 @@ experience:
       location: Bengaluru
       description: |
         Key Roles and Responsibilities in the company.
-        + Having 3.5 years of Experience as a DevOps Engineer for deploying Applications based on various technologies.
+        + Having 3.5+ years of Experience as a DevOps Engineer for deploying Applications based on various technologies.
         + Working with cross functional, geographically distributed team to provide 24x7 deployment support across multiple environments.
         + Participation in project meetings with other technical staff and business/product owners and subject matter experts.
         +	Build engineering automation and productivity tools to streamline deployment pipeline.
@@ -127,7 +127,7 @@ experience:
         + Deploying, monitoring, and supporting applications in a Kubernetes environment.
         + Setting up and maintaining monitoring & alert systems for servers.
         + Profiling: APM Integrations with Spring boot application using Elastic APM.
-        + Setup and maintain log-monitoring using LogStash, Elastic Search and Kibana.
+        + Setup and maintain log-monitoring using Beats, LogStash, Elastic Search and Kibana.
         + Troubleshoot and resolve issues related to application deployment and operations.
         + Working with various cross-functional engineering specialists, project managers and application development teams to define and implement a cloud-based hosting solution.
         + Setting backups / replications / archiving, implement disaster recovery.
@@ -172,13 +172,12 @@ skill:
     + Utilized Linux skills on deployment servers to ensure the servers are up and running.
     + Experience in all project phases using Waterfall and Agile Methodologies.
     + Hands on experience with Devops tools like Git, Maven, Terraform, Ansible, Docker, k8s, Elastic Stack, etc.
-    + Hands on experience with SCM tools like Git for branching, tagging and version management.
+    + Hands on experience with VCS tools like Git for branching, tagging and version management.
     + Deep knowledge of CI (Continuous Integration) and CD (Continuous Deployment) methodologies with Jenkins and Azure-DevOps.
     + Build Management: Experience in tools such as Jenkins, Maven, JFrog for build management.
     + Hands on experience with Configuration Management Tools such as Terraform and Ansible.
     + Hands on experience with code coverage tools like SonarQube.
     + Database Configuration experience on MySQL.
-    + Hands on experience on cloud deployments using DevOps tools like Jenkins and Azure-DevOps.
     + Extensive Experience in Jenkins master-slave for multi machine builds.
     + Hands on experience in delivering container based deployments using Docker and Kubernetes.
     + Having knowledge on setting up and managing Docker private repositories.
