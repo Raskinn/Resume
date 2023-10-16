@@ -169,21 +169,21 @@ skill:
   order: 2
   title: Technical Skills
   description: |
-    + Utilized Linux skills on deployment servers to ensure the servers are up and running.
+    + Utilized Linux skills on deployment servers to ensure that the servers are up and running.
     + Experience in all project phases using Waterfall and Agile Methodologies.
     + Hands on experience with Devops tools like Git, Maven, Terraform, Ansible, Docker, k8s, Elastic Stack, etc.
-    + Hands on experience with VCS tools like Git for branching, tagging and version management.
+    + Proficient with VCS tools like Git for branching, tagging and version management.
     + Deep knowledge of CI (Continuous Integration) and CD (Continuous Deployment) methodologies with Jenkins and Azure-DevOps.
     + Build Management: Experience in tools such as Jenkins, Maven, JFrog for build management.
-    + Hands on experience with Configuration Management Tools such as Terraform and Ansible.
+    + Proficient with Configuration Management Tools such as Terraform and Ansible.
     + Hands on experience with code coverage tools like SonarQube.
     + Database Configuration experience on MySQL.
     + Extensive Experience in Jenkins master-slave for multi machine builds.
-    + Hands on experience in delivering container based deployments using Docker and Kubernetes.
+    + Proficient in delivering container based deployments using Docker and Kubernetes.
     + Having knowledge on setting up and managing Docker private repositories.
-    + Having experience in creating custom Docker Images using Dockerfile.
+    + Proficient in creating custom Docker Images using Dockerfile.
     + Having knowledge on Docker Clustering using Swarm.
-    + Hands on experience on Playbooks development for the automation using Ansible.
+    + Proficient with Playbooks development for the automation using Ansible.
     + Ability to automate the repetitive tasks using Azure CLI/PowerShell/Templates.
     +	Expertise in Installations, Configuration, Administration and Maintenance of CI-CD tools like Jenkins and Azure-DevOps.
     + Given the situation, I prepare azure-pipelines for Azure DevOps, Manifests for k8s clusters, Dockerfiles for Docker, scripts for Terraform, and Playbooks for Ansible.
