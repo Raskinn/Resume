@@ -217,9 +217,8 @@ skill:
       item:
         - Azure
 
-    - name:	Applications
+    - name:	VCS
       item:
-        - Git
         - GitHub
 
     - name:	CI/CD Engines
@@ -250,6 +249,7 @@ skill:
       item:
         - Ansible
         - ARM Templates
+        - Packer
         - Shell Scripting
         - Terraform
 
