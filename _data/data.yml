@@ -104,12 +104,11 @@ experience:
       location: Bengaluru
       description: |
         Key Roles and Responsibilities in the company.
-        + Having 3.5+ years of Experience as a DevOps Engineer for deploying Applications based on various technologies.
         + Working with cross functional, geographically distributed team to provide 24x7 deployment support across multiple environments.
         + Participation in project meetings with other technical staff and business/product owners and subject matter experts.
         +	Build engineering automation and productivity tools to streamline deployment pipeline.
         + Setup DEV, QA and UAT environments for every sprint using Ansible.
-        + Deploying applications on Java, .NET, python, NodeJS using CI/CD Engines.
+        + Responsible for deploying applications using CI/CD Engines on various technologies.
         + Help Development teams automate the environment setup using Ansible.
         + Automation of the compilation, continuous integration, testing, packaging and distribution of software.
         + Responsible for orchestrating CI/CD pipelines by responding to Git triggers, human input, dependency chains and environment setup.
@@ -209,16 +208,13 @@ skill:
   #     level: 3
 
   groups:
-    - name:	Project Management
-      item:
-        - Azure-DevOps
-
     - name:	Cloud Platform
       item:
         - Azure
 
     - name:	VCS
       item:
+        - Git
         - GitHub
 
     - name:	CI/CD Engines
@@ -245,13 +241,15 @@ skill:
         - Docker
         - Kubernetes, (AKS)
 
-    - name: Automation Tools
+    - name: Configuration Management Tools
       item:
         - Ansible
-        - ARM Templates
         - Packer
-        - Shell Scripting
         - Terraform
+
+    - name: Automation Tools
+      item:
+        - Shell Scripting
 
     - name: Monitoring Tool
       item:
