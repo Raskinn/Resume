@@ -226,7 +226,7 @@ skill:
     - name:	Virtualization
       item:
         - Docker
-        - Kubernetes, (AKS)
+        - Kubernetes
 
     - name: Configuration Management
       item:
