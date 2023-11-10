@@ -208,6 +208,7 @@ skill:
   #     level: 3
 
   groups:
+  
     - name:	Cloud Platform
       item:
         - Azure
