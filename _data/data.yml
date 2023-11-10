@@ -231,6 +231,7 @@ skill:
     - name: Configuration Management
       item:
         - Ansible
+        - Packer
         - Terraform
 
     - name: Automation Tool
@@ -239,7 +240,7 @@ skill:
 
     - name: Monitoring Tool
       item:
-        - Elastic Stack (ELK Stack)
+        - Elastic Stack (ELK)
 
 education:
   show: true
