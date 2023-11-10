@@ -208,12 +208,12 @@ skill:
   #     level: 3
 
   groups:
-  
+
     - name:	Cloud Platform
       item:
         - Azure
 
-    - name:	VCS
+    - name:	Version Control System
       item:
         - Git
         - GitHub
@@ -223,18 +223,18 @@ skill:
         - Jenkins
         - Azure DevOps
 
-    - name:	Container Technologies
+    - name:	Virtualization
       item:
         - Docker
         - Kubernetes, (AKS)
 
-    - name: Configuration Management Tools
+    - name: Configuration Management
       item:
         - Ansible
         - Packer
         - Terraform
 
-    - name: Automation Tools
+    - name: Automation Tool
       item:
         - Shell Scripting
 
