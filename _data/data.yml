@@ -222,20 +222,6 @@ skill:
         - Jenkins
         - Azure DevOps
 
-    - name:	Build Tool (Java)
-      item:
-      - Gradle
-      - Maven
-
-    - name:	Build Tool (.NET)
-      item:
-        - dotnet build
-        - MSBuild
-
-    - name:	Build Tool (nodejs)
-      item:
-        - npm
-
     - name:	Container Technologies
       item:
         - Docker
