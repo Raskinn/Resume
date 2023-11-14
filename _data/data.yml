@@ -173,7 +173,7 @@ skill:
     + Hands on experience with DevOps tools like Git, Maven, Terraform, Ansible, Docker, kubernetes, Elastic Stack (ELK), etc.
     + Proficient with VCS tools like Git for branching, tagging and version management
     + Deep knowledge of CI (Continuous Integration) and CD (Continuous Deployment) methodologies with Jenkins and Azure-DevOps
-    + Build Management: Experience in tools such as Maven, MSBuild, npm, etc.
+    + Build Management: Experience in build tools such as Maven, MSBuild, npm, etc.
     + Proficient with Configuration Management tools such as Ansible, Packer and Terraform
     + Hands on experience with code coverage tools like SonarQube
     + Database configuration experience on MySQL
