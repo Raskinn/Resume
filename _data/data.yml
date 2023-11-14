@@ -173,15 +173,15 @@ skill:
     + Hands on experience with DevOps tools like Git, Maven, Terraform, Ansible, Docker, kubernetes, Elastic Stack (ELK), etc.
     + Proficient with VCS tools like Git for branching, tagging and version management
     + Deep knowledge of CI (Continuous Integration) and CD (Continuous Deployment) methodologies with Jenkins and Azure-DevOps
-    + Build Management: Experience in tools such as Jenkins, Maven, JFrog for build management
+    + Build Management: Experience in tools such as Maven, MSBuild, npm, etc.
     + Proficient with Configuration Management tools such as Ansible, Packer and Terraform
     + Hands on experience with code coverage tools like SonarQube
     + Database configuration experience on MySQL
     + Extensive Experience in Jenkins master-slave for multi machine builds
     + Proficient in delivering container based deployments using Docker and Kubernetes
     + Having knowledge on setting up and managing Docker private repositories
-    + Proficient in creating custom Docker Images using Dockerfile
-    + Having knowledge on Docker Clustering using docker swarm
+    + Proficient in creating custom Docker images using Dockerfile
+    + Having knowledge on Docker clustering using docker swarm
     + Proficient with Playbooks development for the automation using Ansible
     + Ability to automate the repetitive tasks using Azure CLI and PowerShell
     +	Expertise in Installation, Configuration, Administration and Maintenance of CI/CD tools like Jenkins and Azure-DevOps
