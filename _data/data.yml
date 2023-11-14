@@ -103,35 +103,35 @@ experience:
       role: DevOps Engineer
       location: Bengaluru
       description: |
-        Key Roles and Responsibilities in the company.
-        + Working with cross functional, geographically distributed team to provide 24x7 deployment support across multiple environments.
-        + Participation in project meetings with other technical staff and business/product owners and subject matter experts.
-        +	Build engineering automation and productivity tools to streamline deployment pipeline.
-        + Setup DEV, QA and UAT environments for every sprint using Ansible.
-        + Responsible for deploying applications using CI/CD Engines on various technologies.
-        + Help Development teams automate the environment setup using Ansible.
-        + Automation of the compilation, continuous integration, testing, packaging and distribution of software.
-        + Responsible for orchestrating CI/CD pipelines by responding to Git triggers, human input, dependency chains and environment setup.
-        + Also responsible for creating the Ansible equivalents of the shell scripts used for deploying the applications or creating Infrastructures.
-        + Managing Continuous Integration and Continuous Delivery (CI/CD) using Jenkins/Azure-Devops and release management using SonarQube/sonarcloud.
-        + Configuring the Day and Night Builds for the sprint teams in Jenkins/Azure-Devops.
-        + Support the engineering teams regarding CI/Build tools, Environments and Automation.
-        + Experience on working with Docker containers infrastructure and Continuous Integration for building & deploying Docker containers.
-        +	Created dockerfiles for easier replication of DEV, QA Environments in local machines.
-        + Design from scratch, the architecture for an enterprise Kubernetes infrastructure to support a CI/CD pipeline for Azure-DevOps CI/CD and Jenkins CI/CD.
+        Key Roles and Responsibilities in the company
+        + Working with cross functional, geographically distributed team to provide 24x7 deployment support across multiple environments
+        + Participation in project meetings with other technical staff and business/product owners and subject matter experts
+        +	Build engineering automation and productivity tools to streamline deployment pipeline
+        + Setup DEV, QA and UAT environments for every sprint using Ansible
+        + Responsible for deploying applications using CI/CD Engines on various technologies
+        + Help Development teams automate the environment setup using Ansible
+        + Automation of the compilation, continuous integration, testing, packaging and distribution of software
+        + Responsible for orchestrating CI/CD pipelines by responding to Git triggers, human input, dependency chains and environment setup
+        + Also responsible for creating the Ansible equivalents of the shell scripts used for deploying the applications or creating Infrastructures
+        + Managing Continuous Integration and Continuous Delivery (CI/CD) using Jenkins/Azure-Devops and release management using SonarQube/sonarcloud
+        + Configuring the Day and Night Builds for the sprint teams in Jenkins/Azure-Devops
+        + Support the engineering teams regarding CI/Build tools, Environments and Automation
+        + Experience on working with Docker containers infrastructure and Continuous Integration for building & deploying Docker containers
+        +	Created dockerfiles for easier replication of DEV, QA Environments in local machines
+        + Design from scratch, the architecture for an enterprise Kubernetes infrastructure to support a CI/CD pipeline for Azure-DevOps CI/CD and Jenkins CI/CD
         + End-to-end Implementation of the Kubernetes architecture - installation, configuration, hardening, networking, etc.
-        + Implementing multiple Kubernetes masters for high availability.
-        + Cluster sizing and scaling.
-        + Documenting solutions, architectural patterns, and best practices around the Kubernetes environments.
-        + Deploying, monitoring, and supporting applications in a Kubernetes environment.
-        + Setting up and maintaining monitoring & alert systems for servers.
-        + Profiling: APM Integrations with Spring boot application using Elastic APM.
-        + Setup and maintain log-monitoring using Beats, LogStash, Elastic Search and Kibana.
-        + Troubleshoot and resolve issues related to application deployment and operations.
-        + Working with various cross-functional engineering specialists, project managers and application development teams to define and implement a cloud-based hosting solution.
-        + Setting backups / replications / archiving, implement disaster recovery.
-        + Managing patches/software upgrades in servers.
-        + Reviewing the technical architecture requirements to assess the DevOps Activities.
+        + Implementing multiple Kubernetes masters for high availability
+        + Cluster sizing and scaling
+        + Documenting solutions, architectural patterns, and best practices around the Kubernetes environments
+        + Deploying, monitoring, and supporting applications in a Kubernetes environment
+        + Setting up and maintaining monitoring & alert systems for servers
+        + Profiling: APM Integrations with Spring boot application using Elastic APM
+        + Setup and maintain log-monitoring using Beats, LogStash, Elastic Search and Kibana
+        + Troubleshoot and resolve issues related to application deployment and operations
+        + Working with various cross-functional engineering specialists, project managers and application development teams to define and implement a cloud-based hosting solution
+        + Setting backups / replications / archiving, implement disaster recovery
+        + Managing patches/software upgrades in servers
+        + Reviewing the technical architecture requirements to assess the DevOps Activities
 
 project:
   show: false
@@ -168,24 +168,24 @@ skill:
   order: 2
   title: Technical Skills
   description: |
-    + Utilized Linux skills on deployment servers to ensure that the servers are up and running.
-    + Experience in all project phases using Waterfall and Agile Methodologies.
-    + Hands on experience with Devops tools like Git, Maven, Terraform, Ansible, Docker, k8s, Elastic Stack, etc.
-    + Proficient with VCS tools like Git for branching, tagging and version management.
-    + Deep knowledge of CI (Continuous Integration) and CD (Continuous Deployment) methodologies with Jenkins and Azure-DevOps.
-    + Build Management: Experience in tools such as Jenkins, Maven, JFrog for build management.
-    + Proficient with Configuration Management Tools such as Terraform and Ansible.
-    + Hands on experience with code coverage tools like SonarQube.
-    + Database Configuration experience on MySQL.
-    + Extensive Experience in Jenkins master-slave for multi machine builds.
-    + Proficient in delivering container based deployments using Docker and Kubernetes.
-    + Having knowledge on setting up and managing Docker private repositories.
-    + Proficient in creating custom Docker Images using Dockerfile.
-    + Having knowledge on Docker Clustering using Swarm.
-    + Proficient with Playbooks development for the automation using Ansible.
-    + Ability to automate the repetitive tasks using Azure CLI/PowerShell/Templates.
-    +	Expertise in Installations, Configuration, Administration and Maintenance of CI-CD tools like Jenkins and Azure-DevOps.
-    + Given the situation, I prepare azure-pipelines for Azure DevOps, Manifests for k8s clusters, Dockerfiles for Docker, scripts for Terraform, and Playbooks for Ansible.
+    + Utilized Linux skills on deployment servers to ensure that the servers are up and running
+    + Experience in all project phases using Waterfall and Agile Methodologies
+    + Hands on experience with DevOps tools like Git, Maven, Terraform, Ansible, Docker, kubernetes, Elastic Stack (ELK), etc.
+    + Proficient with VCS tools like Git for branching, tagging and version management
+    + Deep knowledge of CI (Continuous Integration) and CD (Continuous Deployment) methodologies with Jenkins and Azure-DevOps
+    + Build Management: Experience in tools such as Jenkins, Maven, JFrog for build management
+    + Proficient with Configuration Management tools such as Ansible, Packer and Terraform
+    + Hands on experience with code coverage tools like SonarQube
+    + Database configuration experience on MySQL
+    + Extensive Experience in Jenkins master-slave for multi machine builds
+    + Proficient in delivering container based deployments using Docker and Kubernetes
+    + Having knowledge on setting up and managing Docker private repositories
+    + Proficient in creating custom Docker Images using Dockerfile
+    + Having knowledge on Docker Clustering using docker swarm
+    + Proficient with Playbooks development for the automation using Ansible
+    + Ability to automate the repetitive tasks using Azure CLI and PowerShell
+    +	Expertise in Installation, Configuration, Administration and Maintenance of CI/CD tools like Jenkins and Azure-DevOps
+    + Given the situation, I prepare azure-pipelines for Azure DevOps, Manifests for k8s clusters, Dockerfiles for Docker, scripts for Terraform, and Playbooks for Ansible
 
   # items:
   #   - name: Skill A
@@ -406,27 +406,27 @@ evaluation:
   description: |
 
     - Soft Skills:
-        + Communication: I effectively communicate with cross-functional teams, ensuring transparency and collaboration in DevOps initiatives.
-        + Problem Solving: I excel in identifying and resolving complex technical challenges and am proactive in troubleshooting.
-        + Adaptability: I easily adapt to new technologies and tools, keeping up with the evolving DevOps landscape.
-        + Teamwork: I work well in a team and foster a collaborative environment, emphasizing the importance of a DevOps culture.
+        + Communication: I effectively communicate with cross-functional teams, ensuring transparency and collaboration in DevOps initiatives
+        + Problem Solving: I excel in identifying and resolving complex technical challenges and am proactive in troubleshooting
+        + Adaptability: I easily adapt to new technologies and tools, keeping up with the evolving DevOps landscape
+        + Teamwork: I work well in a team and foster a collaborative environment, emphasizing the importance of a DevOps culture
 
     - Achievements:
-        + Cloud Optimization: Optimized cloud infrastructure on Azure, resulting in substantial cost savings while maintaining high availability and performance.
-        + CI/CD Pipeline Implementation: Successfully led the implementation of a CI/CD pipeline, resulting 40% reduction in deployment time.
-        + Scripting and Automation: Developed scripts in bash, PowerShell and other tools like playbooks for Ansible, Manifests for kubernetes, etc. to automate repetitive tasks, reducing manual efforts and minimizing errors in day-to-day operations.
-        + Containerization and Orchestration: Led the adoption of containerization technologies like Docker and container orchestration platforms like Kubernetes, resulting in more scalable and fault-tolerant application deployments.
-        + Monitoring and Alerting: Implemented robust monitoring and alerting systems using ELK Stack, enabling proactive issue detection and faster incident response. 
-  
+        + Cloud Optimization: Optimized cloud infrastructure on Azure, resulting in substantial cost savings while maintaining high availability and performance
+        + CI/CD Pipeline Implementation: Successfully led the implementation of a CI/CD pipeline, resulting 40% reduction in deployment time
+        + Scripting and Automation: Developed scripts in bash, PowerShell and other tools like playbooks for Ansible, Manifests for kubernetes, etc. to automate repetitive tasks, reducing manual efforts and minimizing errors in day-to-day operations
+        + Containerization and Orchestration: Led the adoption of containerization technologies like Docker and container orchestration platforms like Kubernetes, resulting in more scalable and fault-tolerant application deployments
+        + Monitoring and Alerting: Implemented robust monitoring and alerting systems using ELK Stack, enabling proactive issue detection and faster incident response
+
     - Areas for Improvement:
-        + Advanced Security: I aim to deepen my knowledge of advanced security practices and further strengthen the security posture of our systems.
-        + Machine Learning/AI Integration: As AI and ML become more prevalent in DevOps, I plan to explore ways to incorporate these technologies into our processes.
-        + Advanced Cloud Services: I want to expand my expertise in advanced cloud services to optimize resource usage further.
+        + Advanced Security: I aim to deepen my knowledge of advanced security practices and further strengthen the security posture of our systems
+        + Machine Learning/AI Integration: As AI and ML become more prevalent in DevOps, I plan to explore ways to incorporate these technologies into our processes
+        + Advanced Cloud Services: I want to expand my expertise in advanced cloud services to optimize resource usage further
 
     - Professional Goals:
-        + Certifications: I plan to earn additional certifications, such as Certified Kubernetes Administrator (CKA) or Azure Certified DevOps Engineer, to enhance my qualifications.
-        + Mentoring: I aspire to mentor junior DevOps engineers and share my knowledge and experiences to help them grow in their careers.
-        + Continuous Learning: I am committed to staying updated with industry trends, attending relevant conferences, and participating in online communities to remain a leading expert in DevOps.
+        + Certifications: I plan to earn additional certifications, such as Certified Kubernetes Administrator (CKA) or Azure Certified DevOps Engineer, to enhance my qualifications
+        + Mentoring: I aspire to mentor junior DevOps engineers and share my knowledge and experiences to help them grow in their careers
+        + Continuous Learning: I am committed to staying updated with industry trends, attending relevant conferences, and participating in online communities to remain a leading expert in DevOps
 
 reference:
   show: false
