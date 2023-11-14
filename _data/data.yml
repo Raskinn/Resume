@@ -234,7 +234,7 @@ skill:
         - Packer
         - Terraform
 
-    - name: Automation Tool
+    - name: Automation
       item:
         - Shell Scripting
 
@@ -394,9 +394,9 @@ interest:
   description: |
 
   items:
-    - item: Watching movies
+    - item: Upskilling
       link:
-    - item: Playing online games
+    - item: Online Gaming
       link:
 
 evaluation:
