@@ -382,10 +382,10 @@ language:
   description: |
 
   items:
-    - idiom: Hindi
-      level: Native
     - idiom: English
       level: Professional
+    - idiom: Hindi
+      level: Native
 
 interest:
   show: true
