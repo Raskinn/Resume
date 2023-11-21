@@ -179,7 +179,7 @@ skill:
     + Proficient with Configuration Management tools such as Ansible, Packer and Terraform
     + Hands on experience with code coverage tools like SonarQube
     + Database configuration experience on MySQL
-    + Experience in Jenkins's Master-Node for multi machine builds
+    + Experience in Jenkins Master-Node for multi machine builds
     + Proficient in delivering container based deployments using Docker and Kubernetes
     + Having knowledge on setting up and managing Docker private repositories
     + Proficient in creating custom Docker images using Dockerfile
