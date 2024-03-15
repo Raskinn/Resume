@@ -8,10 +8,10 @@ basic:
 contact:
   # meta
   location:   Bengaluru, India              # location
-  email:      razkyn@outlook.com            # email address
-  phone:      +91-7893062989                # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  linkedin:   raskinbagde
-  #website:    raskinn.github.io/Resume/     # site URL without schema, like example.com, will automatically prepand "https://"
+  email:      bagderaskin29@gmail.com       # email address
+  phone:      +91-8500862989                # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  linkedin:   bagderaskin
+  website:    raskinn.github.io/Resume/     # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
   birthday:                # birthday
@@ -84,7 +84,7 @@ profile:
   order: 1
   title: Profile
   description: |
-      As a DevOps Engineer with 3.5 years of experience, I am dedicated to optimize software development, deployments, and
+      As a DevOps Engineer with 3.6 years of experience, I am dedicated to optimize software development, deployments, and
       IT operations for the organization. My expertise lies in automating workflows, ensuring system reliability, and
       implementing best practices to enhance collaboration between development and operations teams. I excel in managing 
       cloud infrastructure, orchestrating containers, and implementing CI/CD pipelines for efficient and secure software delivery.
@@ -99,7 +99,7 @@ experience:
     - company: Neptune Information Solutions Ltd.
       link:
       tags: Remote, Full-time
-      date: 09.2020 - Till Date
+      date: September'2020 - Till Date
       role: DevOps Engineer
       location: Bengaluru
       description: |
@@ -254,19 +254,19 @@ education:
   items:
     - institution: RTMN University
       link: '#'
-      date: '09.2015'
+      date: September'2015
       major: Information Technology
-      degree: Bachelor
+      degree: Bachelors
       description: |
         + Completed Bachelor of Engineering in Information Technology from R.T.M. Nagpur University.
 
     - institution: Chhattisgarh Board of Secondary Education
       link:
-      date: '03.2009'
+      date: March'2009
       major: Science
       degree: High School
       description: |
-        + Completed High school from CGBSE.
+        + Completed High school from CGBSE
 
 certificate:
   show: false
