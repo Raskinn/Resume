@@ -11,7 +11,7 @@ contact:
   email:      bagderaskin29@gmail.com       # email address
   phone:      +91-8500862989                # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   linkedin:   bagderaskin
-  website:    raskinn.github.io/Resume/     # site URL without schema, like example.com, will automatically prepand "https://"
+  #website:    raskinn.github.io/Resume/     # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
   birthday:                # birthday
