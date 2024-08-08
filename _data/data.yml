@@ -143,7 +143,7 @@ project:
     This project involves migration of billions of files (Petabytes in size) from on-premises storage clusters toAzure storage accounts to reduce the storage cost.
 
   items:
-    - project name: Volvo 
+    - name: Volvo 
       link: '#'
       tags:
       duration: December 2020 - Till Date
@@ -167,7 +167,7 @@ project:
       - Created Reusable Modules in terraform.
 
 
-    - project name: AstraZeneca
+    - name: AstraZeneca
       link:
       tags:
       duration: September 2020 to December 2022
