@@ -168,7 +168,7 @@ project:
     - name: AstraZeneca
       link: '#'
       tags:
-      date: September 2020 to December 2022
+      date: September 2020 - December 2022
       description: |
       Roles and Responsibilities:
         + Created GIT as version control repository and used MAVEN as a build tool for building and distributing a particular artifact.
