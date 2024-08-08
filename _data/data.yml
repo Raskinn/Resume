@@ -146,7 +146,7 @@ project:
     - name: Volvo 
       link: '#'
       tags:
-      date: December 2020 - Till Date
+      date: December 2022 - Till Date
       description: |
       Roles & Responsibilities:
         + Having a good knowledge of Jenkins administration like adding plugins, managing users, creating various job types based on applications.
@@ -166,7 +166,7 @@ project:
         + Created Reusable Modules in terraform.
 
     - name: AstraZeneca
-      link:
+      link: '#'
       tags:
       date: September 2020 to December 2022
       description: |
