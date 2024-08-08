@@ -140,56 +140,51 @@ project:
   order: 4
   title: Volvo
   description: |
-    This project involves migration of billions of files (Petabytes in size) from on-premises storage clusters toAzure storage accounts to reduce the storage cost.
+    This project involves migration of billions of data (Petabytes in size) from on-premises storage clusters to Azure storage accounts to reduce the storage cost.
 
   items:
     - name: Volvo 
       link: '#'
       tags:
-      duration: December 2020 - Till Date
+      date: December 2020 - Till Date
       description: |
-
       Roles & Responsibilities:
-      - Having good knowledge of Jenkins administration like adding plugins, managing users, creating various job types based on applications.
-      - Involved in production deployments and handling implementation plans based on releases.
-      - Worked on Azure boards like creating the work items, Sprints, boards, Dashboards to get the repo.
-      - Experience in creating Azure Boards, Azure Test Plans, Azure Repo’s, Azure Pipelines, Azure Artifacts
-      - Hands on experience on Azure DevOps, Azure Boards, Azure Dashboards, Wiki, Azure Pipelines, Azure Artifacts, Test Plans.
-      - Having Very Good knowledge on Creating Pull Requests, Repository Forking, Merging, Squashing, and Rebasing.
-      - Created Workflow for the branches to maintain their branching Strategies.
-      - Integrated with CI Pipelines and release Pipelines for Deployment to Different Environments.
-      - Configured Master and slave Configuration and restricted jobs.
-      - Good knowledge of installing plugins and integrating with other tools.
-      - Good Exposure on Configuring LDAP, SMTP Mail Server for Notifications.
-      - Knowledge on Azure Portal services like creating the management groups, Subscriptions, resource management groups, ARM Templates
-      - Involved in infra-provisioning on Azure cloud services like azure virtual networks, storage accounts, webapps, subscriptions, firewalls, load balancers etc.
-      - Created Infrastructure for various environments from scratch with terraform scripts.
-      - Created Reusable Modules in terraform.
-
+        + Having a good knowledge of Jenkins administration like adding plugins, managing users, creating various job types based on applications.
+        + Involved in production deployments and handling implementation plans based on releases.
+        + Worked on Azure boards like creating the work items, Sprints, boards, Dashboards to get the repo.
+        + Experience in creating Azure Boards, Azure Test Plans, Azure Repos, Azure Pipelines, Azure Artifacts
+        + Hands on experience on Azure DevOps, Azure Boards, Azure Dashboards, Wiki, Azure Pipelines, Azure Artifacts, Test Plans.
+        + Having Very Good knowledge on Creating Pull Requests, Repository Forking, Merging, Squashing, and Rebasing.
+        + Created Workflow for the branches to maintain their branching Strategies.
+        + Integrated with CI Pipelines and release Pipelines for Deployment to different Environments.
+        + Configured Master and slave Configuration and restricted jobs.
+        + Good knowledge of installing plugins and integrating with other tools.
+        + Good Exposure on Configuring LDAP, SMTP Mail Server for Notifications.
+        + Knowledge on Azure Portal services like creating the management groups, Subscriptions, resource management groups, ARM Templates
+        + Involved in infra-provisioning on Azure cloud services like azure virtual networks, storage accounts, webapps, subscriptions, firewalls, load balancers, etc.
+        + Created Infrastructure for various environments from scratch with terraform scripts.
+        + Created Reusable Modules in terraform.
 
     - name: AstraZeneca
       link:
       tags:
-      duration: September 2020 to December 2022
+      date: September 2020 to December 2022
       description: |
-
       Roles and Responsibilities:
-      - Created GIT as version control repository and used MAVEN as a build tool for building and distributing a particular artifact.
-      - Assisted developers with development issues related to CM tool usage.
-      - Performed daily software builds.
-      - Ability to manage/track multiple configurations of a system.
-      - Experience with creating and maintaining automated build tools.
-      - Built, configured, and supported Application team environments.
-      - Creation and maintenance of scripts for development and deployment
-      - Maintenance of continuous integration based on Jenkins.
-      - Involved in the release process and deployed applications (WAR, and JAR) to the Tomcat server.
-      - Review build results, debug, and optimize complex builds, and discuss technical issues with developers, architects, and managers.
-      - Developed shell scripts for automation of the build and release process.
-      - Responsible for Scheduling and Monitoring Daily backup jobs for GIT and Jenkins.
-      - Documented the entire build and release engineering process and provided on call support.
-      - Responsible for Build and Install Schedules using Cron jobs.
-
-
+        + Created GIT as version control repository and used MAVEN as a build tool for building and distributing a particular artifact.
+        + Assisted developers with development issues related to CM tool usage.
+        + Performed daily software builds.
+        + Ability to manage/track multiple configurations of a system.
+        + Experience with creating and maintaining automated build tools.
+        + Built, configured, and supported Application team environments.
+        + Creation and maintenance of scripts for development and deployment
+        + Maintenance of continuous integration based on Jenkins.
+        + Involved in the release process and deployed applications (WAR, and JAR) to the Tomcat server.
+        + Review build results, debug, and optimize complex builds, and discuss technical issues with developers, architects, and managers.
+        + Developed shell scripts for automation of the build and release process.
+        + Responsible for Scheduling and Monitoring Daily backup jobs for GIT and Jenkins.
+        + Documented the entire build and release engineering process and provided on call support.
+        + Responsible for Build and Install Schedules using Cron jobs.
 
 skills:
   show: true
