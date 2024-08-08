@@ -1,6 +1,6 @@
 basic:
   name: Raskin Bagde                        # name
-  title: DevOps Engineer                    # job title
+  title: Azure DevOps Engineer              # job title
   avatar:
     show: true                              # show or hide avatar
     path: /assets/images/img.jpg            # avatar file path
@@ -9,7 +9,7 @@ contact:
   # meta
   location:   Bengaluru, India              # location
   email:      bagderaskin29@gmail.com       # email address
-  phone:      +91-8500862989                # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  phone:      +91-7730935790                # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   linkedin:   bagderaskin
   #website:    raskinn.github.io/Resume/     # site URL without schema, like example.com, will automatically prepand "https://"
 
@@ -84,7 +84,7 @@ profile:
   order: 1
   title: Profile
   description: |
-      As a DevOps Engineer with 3.6 years of experience, I am dedicated to optimize software development, deployments, and
+      As a DevOps Engineer with 4 years of experience, I'm dedicated to optimize software development, deployments, and
       IT operations for the organization. My expertise lies in automating workflows, ensuring system reliability, and
       implementing best practices to enhance collaboration between development and operations teams. I excel in managing 
       cloud infrastructure, orchestrating containers, and implementing CI/CD pipelines for efficient and secure software delivery.
@@ -96,11 +96,11 @@ experience:
   description: |
 
   items:
-    - company: Neptune Information Solutions Ltd.
+    - company: Neptune Information Solutions
       link:
       tags: Remote, Full-time
       date: September'2020 - Till Date
-      role: DevOps Engineer
+      role: Azure DevOps Engineer
       location: Bengaluru
       description: |
         Key Roles and Responsibilities:
@@ -136,36 +136,62 @@ experience:
         + Reviewing the technical architecture requirements to assess the DevOps Activities
 
 project:
-  show: false
-  order: 3
-  title: Projects
+  show: true
+  order: 4
+  title: Volvo
   description: |
-    The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
-
-    In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
-
-    The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
+    This project involves migration of billions of files (Petabytes in size) from on-premises storage clusters toAzure storage accounts to reduce the storage cost.
 
   items:
-    - name: Personal project
+    - project name: Volvo 
       link: '#'
       tags:
-      date: 2015 - 2017
+      duration: December 2020 - Till Date
       description: |
-        Personal project description...
-        + First
-        + Second
 
-    - name: OSS project
+      Roles & Responsibilities:
+      - Having good knowledge of Jenkins administration like adding plugins, managing users, creating various job types based on applications.
+      - Involved in production deployments and handling implementation plans based on releases.
+      - Worked on Azure boards like creating the work items, Sprints, boards, Dashboards to get the repo.
+      - Experience in creating Azure Boards, Azure Test Plans, Azure Repo’s, Azure Pipelines, Azure Artifacts
+      - Hands on experience on Azure DevOps, Azure Boards, Azure Dashboards, Wiki, Azure Pipelines, Azure Artifacts, Test Plans.
+      - Having Very Good knowledge on Creating Pull Requests, Repository Forking, Merging, Squashing, and Rebasing.
+      - Created Workflow for the branches to maintain their branching Strategies.
+      - Integrated with CI Pipelines and release Pipelines for Deployment to Different Environments.
+      - Configured Master and slave Configuration and restricted jobs.
+      - Good knowledge of installing plugins and integrating with other tools.
+      - Good Exposure on Configuring LDAP, SMTP Mail Server for Notifications.
+      - Knowledge on Azure Portal services like creating the management groups, Subscriptions, resource management groups, ARM Templates
+      - Involved in infra-provisioning on Azure cloud services like azure virtual networks, storage accounts, webapps, subscriptions, firewalls, load balancers etc.
+      - Created Infrastructure for various environments from scratch with terraform scripts.
+      - Created Reusable Modules in terraform.
+
+
+    - project name: AstraZeneca
       link:
-      tags: committer
-      date:
+      tags:
+      duration: September 2020 to December 2022
       description: |
-        OSS project description...
-        + First
-        + Second
 
-skill:
+      Roles and Responsibilities:
+      - Created GIT as version control repository and used MAVEN as a build tool for building and distributing a particular artifact.
+      - Assisted developers with development issues related to CM tool usage.
+      - Performed daily software builds.
+      - Ability to manage/track multiple configurations of a system.
+      - Experience with creating and maintaining automated build tools.
+      - Built, configured, and supported Application team environments.
+      - Creation and maintenance of scripts for development and deployment
+      - Maintenance of continuous integration based on Jenkins.
+      - Involved in the release process and deployed applications (WAR, and JAR) to the Tomcat server.
+      - Review build results, debug, and optimize complex builds, and discuss technical issues with developers, architects, and managers.
+      - Developed shell scripts for automation of the build and release process.
+      - Responsible for Scheduling and Monitoring Daily backup jobs for GIT and Jenkins.
+      - Documented the entire build and release engineering process and provided on call support.
+      - Responsible for Build and Install Schedules using Cron jobs.
+
+
+
+skills:
   show: true
   order: 2
   title: Technical Skills
