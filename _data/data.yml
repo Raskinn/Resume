@@ -136,7 +136,7 @@ experience:
         + Reviewing the technical architecture requirements to assess the DevOps Activities
 
 project:
-  show: true
+  show: false
   order: 4
   title: Volvo
   description: |
