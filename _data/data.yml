@@ -84,8 +84,8 @@ profile:
   order: 1
   title: Profile
   description: |
-    As a DevOps Engineer with 4 years of experience, I'm dedicated to optimize software development, deployments, and
-    IT operations for the organization. My expertise lies in automating workflows, ensuring system reliability, and
+    As a DevOps Engineer with 5.5 years of experience, I'm dedicated to optimize software development, deployments, and
+    IT operations for my organization. My expertise lies in automating workflows, ensuring system reliability, and
     implementing best practices to enhance collaboration between development and operations teams. I excel in managing 
     cloud infrastructure, orchestrating containers, and implementing CI/CD pipelines for efficient and secure software delivery.
 
@@ -134,6 +134,22 @@ experience:
         + Managing patches/software upgrades in servers
         + Working with various cross-functional engineering specialists, project managers and application development teams to define and implement a cloud-based hosting solution
         + Reviewing the technical architecture requirements to assess the DevOps Activities
+    
+    - company: Codec Softwares
+      link:
+      tags: Remote, Full-time
+      date: April'2019 - August'2020
+      role: Linux Administrator
+      location: Bengaluru
+      description: |
+        + Install and maintain all server hardware and software systems, as well as manage server performance and availability.
+        + Maintain all system backups and aid in the restoration of all operations, as well as give all the users with the necessary training.
+        + Monitor daily systems, evaluate the availability of all server resources, and carry out all Linux server tasks.
+        + Troubleshoot all tools, maintain numerous servers, and back up all files and script management servers.
+        + Test all new software, maintain patches for management services, and conduct audits on all security procedures.
+        + Assist in the setup and deployment of all virtual machines, as well as the installation and backup of all configuration procedures.
+        + Evaluate all papers per system requirements, as well as all design and development activities, and administrate all sophisticated processes.
+        + Create and manage all system tools for all the scripts and automation processes, as well as oversee all capacity planning.
 
 project:
   show: false
