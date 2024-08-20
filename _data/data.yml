@@ -1,93 +1,93 @@
 basic:
-  name: Raskin Bagde                        # name
-  title: Azure DevOps Engineer              # job title
+  name: Raskin Bagde # name
+  title: Azure DevOps Engineer # job title
   avatar:
-    show: true                              # show or hide avatar
-    path: /assets/images/img.jpg            # avatar file path
+    show: true # show or hide avatar
+    path: /assets/images/img.jpg # avatar file path
 
 contact:
   # meta
-  location:   Bengaluru, India              # location
-  email:      bagderaskin29@gmail.com       # email address
-  phone:      +91-7730935790                # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  linkedin:   bagderaskin
+  location: Bengaluru, India # location
+  email: bagderaskin89@gmail.com # email address
+  phone: +91-7702852989 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  linkedin: bagderaskin
   #website:    raskinn.github.io/Resume/     # site URL without schema, like example.com, will automatically prepand "https://"
 
-  gender:                  # gender or pronoun
-  birthday:                # birthday
-  nationality:             # nationality
-  visa:                    # passport visa
-  drivinglicense:          # driving licence
+  gender: # gender or pronoun
+  birthday: # birthday
+  nationality: # nationality
+  visa: # passport visa
+  drivinglicense: # driving licence
 
   # contact
-  wechat:                  # username
-  whatsapp:                # 8611122223333     | https://wa.me/8611122223333
-  telegram:                # username          | https://t.me/username
-  messenger:               # username          | https://m.me/username
-  line:                    # lineid            | https://line.me/R/ti/p/@lineid
-  viber:                   # username          | https://vb.me/username
-  threema:                 # userid            | https://threema.id/userid
+  wechat: # username
+  whatsapp: # 8611122223333     | https://wa.me/8611122223333
+  telegram: # username          | https://t.me/username
+  messenger: # username          | https://m.me/username
+  line: # lineid            | https://line.me/R/ti/p/@lineid
+  viber: # username          | https://vb.me/username
+  threema: # userid            | https://threema.id/userid
 
   # programmer
-  github:                  # username          | https://github.com/username
-  gitlab:                  # username          | https://gitlab.com/username
-  bitbucket:               # username          | https://bitbucket.com/username
-  stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
-  leetcode:                # username          | https://leetcode.com/username
-  codeforces:              # username          | https://codeforces.com/profile/username
-  codewars:                # username          | https://www.codewars.com/users/username
-  codepen:                 # username          | https://codepen.io/username
-  tryhackme:               # username          | https://tryhackme.com/p/username
+  github: # username          | https://github.com/username
+  gitlab: # username          | https://gitlab.com/username
+  bitbucket: # username          | https://bitbucket.com/username
+  stackoverflow: # id or id/username | https://stackoverflow.com/users/id/username
+  leetcode: # username          | https://leetcode.com/username
+  codeforces: # username          | https://codeforces.com/profile/username
+  codewars: # username          | https://www.codewars.com/users/username
+  codepen: # username          | https://codepen.io/username
+  tryhackme: # username          | https://tryhackme.com/p/username
 
   # academic
-  googlescholar:           # username          | https://scholar.google.com/citations?user=username
-  researchgate:            # username          | https://www.researchgate.net/profile/username
-  kaggle:                  # username          | https://www.kaggle.com/username
-  orcid:                   # id                | https://orcid.org/id
-  figshare:                # name/id           | https://figshare.com/authors/name/id
+  googlescholar: # username          | https://scholar.google.com/citations?user=username
+  researchgate: # username          | https://www.researchgate.net/profile/username
+  kaggle: # username          | https://www.kaggle.com/username
+  orcid: # id                | https://orcid.org/id
+  figshare: # name/id           | https://figshare.com/authors/name/id
 
   # writer
-  devto:                   # username          | https://dev.to/username
-  medium:                  # username          | https://medium.com/@username
-  wordpress:               # username          | https://username.wordpress.com
-  blogger:                 # username          | https://username.blogspot.com
-  wikipedia:               # username          | https://www.wikipedia.org/wiki/User:username
+  devto: # username          | https://dev.to/username
+  medium: # username          | https://medium.com/@username
+  wordpress: # username          | https://username.wordpress.com
+  blogger: # username          | https://username.blogspot.com
+  wikipedia: # username          | https://www.wikipedia.org/wiki/User:username
 
   # designer
-  figma:                   # username          | https://www.figma.com/@username
-  behance:                 # username          | https://www.behance.net/username
-  dribble:                 # username          | https://dribbble.com/username
-  artstation:              # username          | https://www.artstation.com/username
+  figma: # username          | https://www.figma.com/@username
+  behance: # username          | https://www.behance.net/username
+  dribble: # username          | https://dribbble.com/username
+  artstation: # username          | https://www.artstation.com/username
 
   # other cv
   #linkedin:                # username          | https://linkedin.com/in/username
-  indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
-  xing:                    # username          | https://www.xing.com/profile/username
-  fiverr:                  # username          | https://www.fiverr.com/username
-  freelancer:              # username          | https://www.freelancer.com/u/username
+  indeed: # resumeid          | https://my.indeed.com/p/resumeid
+  xing: # username          | https://www.xing.com/profile/username
+  fiverr: # username          | https://www.fiverr.com/username
+  freelancer: # username          | https://www.freelancer.com/u/username
 
   # social media
-  twitter:                 # username          | https://twitter.com/username
-  mastodon:                # username@server
-  instagram:               # username          | https://instagram.com/username
-  unsplash:                # username          | https://unsplash.com/@username
-  _500px:                  # username          | https://500px.com/p/username
-  youtube:                 # username          | https://www.youtube.com/@username
-  tiktok:                  # username          | https://www.tiktok.com/@username
-  quora:                   # username          | https://www.quora.com/profile/username
-  zhihu:                   # username          | https://www.zhihu.com/people/username
-  goodreads:               # username          | https://www.goodreads.com/user/show/username
-  strava:                  # useid             | https://www.strava.com/athletes/userid
+  twitter: # username          | https://twitter.com/username
+  mastodon: # username@server
+  instagram: # username          | https://instagram.com/username
+  unsplash: # username          | https://unsplash.com/@username
+  _500px: # username          | https://500px.com/p/username
+  youtube: # username          | https://www.youtube.com/@username
+  tiktok: # username          | https://www.tiktok.com/@username
+  quora: # username          | https://www.quora.com/profile/username
+  zhihu: # username          | https://www.zhihu.com/people/username
+  goodreads: # username          | https://www.goodreads.com/user/show/username
+  strava: # useid             | https://www.strava.com/athletes/userid
 
 profile:
   show: true
   order: 1
   title: Profile
   description: |
-      As a DevOps Engineer with 4 years of experience, I'm dedicated to optimize software development, deployments, and
-      IT operations for the organization. My expertise lies in automating workflows, ensuring system reliability, and
-      implementing best practices to enhance collaboration between development and operations teams. I excel in managing 
-      cloud infrastructure, orchestrating containers, and implementing CI/CD pipelines for efficient and secure software delivery.
+    As a DevOps Engineer with 4 years of experience, I'm dedicated to optimize software development, deployments, and
+    IT operations for the organization. My expertise lies in automating workflows, ensuring system reliability, and
+    implementing best practices to enhance collaboration between development and operations teams. I excel in managing 
+    cloud infrastructure, orchestrating containers, and implementing CI/CD pipelines for efficient and secure software delivery.
 
 experience:
   show: true
@@ -112,9 +112,9 @@ experience:
         + Automating the CI/CD pipelines and sharing the secured packages/softwares across the relevant teams
         + Responsible for orchestrating CI/CD pipelines by responding to Git triggers, human input, dependency chains and environment setup
         + Also responsible for creating the Ansible equivalents of the shell scripts used for deploying the applications or creating Infrastructures
-        + Supporting the engineering teams regarding CI/Build tools, Environments and Automations
+        + Supporting the engineering teams regarding CI/Build tools, Environments and Automation
         + Responsible for creating CI for building & deploying Docker containers
-        +	Creating dockerfiles for easier replication of DEV, QA Environments
+        +	Creating Dockerfiles for easier replication of DEV, QA Environments
         + Creating kubernetes infrastructure across various platforms including AKS
         + Design the architecture for an enterprise Kubernetes infrastructure to support a CI/CD pipelines for CI/CD Engines
         + End-to-end Implementation of the Kubernetes architecture - installation, configuration, networking, etc.
@@ -143,8 +143,8 @@ project:
     This project involves migration of billions of data (Petabytes in size) from on-premises storage clusters to Azure storage accounts to reduce the storage cost.
 
   items:
-    - name: Volvo 
-      link: '#'
+    - name: Volvo
+      link: "#"
       tags:
       date: December 2022 - Till Date
       description: |
@@ -166,7 +166,7 @@ project:
         + Created Reusable Modules in terraform.
 
     - name: AstraZeneca
-      link: '#'
+      link: "#"
       tags:
       date: September 2020 - December 2022
       description: |
@@ -232,22 +232,21 @@ skills:
   #     level: 3
 
   groups:
-
-    - name:	Cloud Platform
+    - name: Cloud Platform
       item:
         - Azure
 
-    - name:	Version Control System
+    - name: Version Control System
       item:
         - Git
         - GitHub
 
-    - name:	CI/CD Engines
+    - name: CI/CD Engines
       item:
         - Jenkins
         - Azure DevOps
 
-    - name:	Virtualization
+    - name: Virtualization
       item:
         - Docker
         - Kubernetes
@@ -273,8 +272,8 @@ education:
   description: |
 
   items:
-    - institution: RTMN University
-      link: '#'
+    - institution: R.T.M. Nagpur University
+      link: "#"
       date: September'2015
       major: Information Technology
       degree: Bachelors
@@ -306,7 +305,7 @@ certificate:
     - name: Example Certificate One
       issuer: by Example
       date: 2020
-      link: '#'
+      link: "#"
       description: |
         It's my Example Certificate One by Example.
     - name: Example Certificate Two
@@ -333,7 +332,7 @@ publication:
     - title: Example Publication in Action
       authors: Foo Bar
       conference: Foobar, 2019
-      link: '#'
+      link: "#"
     - title: The Art of Example Publication
       authors: Foo Bar
       conference: Foobar, 2019
@@ -351,18 +350,18 @@ award:
     By highlighting your awards, you can demonstrate your achievements and accomplishments in your field, and can help differentiate yourself from other candidates. However, if you have not received any awards, it is not necessary to include this section in your resume.
 
   items:
-    - name: Example Awared One
+    - name: Example Award One
       awarder: by Example
       date: 2022
-      link: '#'
+      link: "#"
       description: |
-        It's my Example Awared One by Example.
-    - name: Example Awared Two
+        It's my Example Award One by Example.
+    - name: Example Award Two
       awarder: by Example
       date: 2022
       link:
       description: |
-        It's my Example Awared Two by Example.
+        It's my Example Award Two by Example.
 
 patent:
   show: false
@@ -418,7 +417,7 @@ interest:
   description: |
 
   items:
-    - item: Upskilling
+    - item: UpSkilling
       link:
     - item: Online Gaming
       link:
@@ -444,13 +443,13 @@ evaluation:
 
     - Areas of Improvement:
         + Advanced Security: I aim to deepen my knowledge of advanced security practices and further strengthen the security posture of our systems
-        + Machine Learning/AI Integration: As AI and ML become more prevalent in DevOps, I plan to explore ways to incorporate these technologies into our processes
+        + Machine Learning/AI Integration: As AI is becoming more prevalent in DevOps, I plan to explore ways to incorporate these technologies into our processes
         + Advanced Cloud Services: I want to expand my expertise in advanced cloud services to optimize resource usage further
 
     - Professional Goals:
         + Certifications: I plan to earn additional certifications, such as Certified Kubernetes Administrator (CKA) or Azure Certified DevOps Engineer, to enhance my qualifications
         + Mentoring: I aspire to mentor junior DevOps engineers and share my knowledge and experiences to help them grow in their careers
-        + Continuous Learning: I am committed to staying updated with industry trends, attending relevant conferences, and participating in online communities to remain a leading expert in DevOps
+        + Continuous Learning: I'm committed to staying updated with industry trends, attending relevant conferences, and participating in online communities to remain a leading expert in DevOps
 
 reference:
   show: false
@@ -467,7 +466,7 @@ reference:
 
   items:
     - name: Foo One
-      link: '#'
+      link: "#"
       title: Backend Developer
       institution: Second Company
       address: 1234 Example St, XXX, XY 11111
