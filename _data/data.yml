@@ -296,12 +296,11 @@ certificate:
     Thrilled to mention that recently passed the Azure Administrator Associate (AZ - 104)
 
   items:
-    - name: Azure Administrator Associate
+    - name: "Microsoft Certified: Azure Administrator Associate"
       date: November'2024 - November'2025
       link: "https://learn.microsoft.com/api/credentials/share/en-us/RaskinBagde-7499/EE77836C28107C0B?sharingId=7183CB72FD2C67F9"
-      issuer:
       description: |
-        Microsoft Certified: Azure Administrator Associate (AZ - 104).
+        Azure Administrator Associate (AZ - 104).
     # - name: Example Certificate Two
     #   issuer: by Example
     #   date: 2020
