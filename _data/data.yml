@@ -110,7 +110,7 @@ experience:
         + Setting up DEV, QA and UAT environments for each sprint
         + Responsible for deploying applications using CI/CD Engines across various technologies
         + Automating the CI/CD pipelines and sharing the secured packages/softwares across the relevant teams
-        + Responsible for designing & maintaining CI/CD pipelines by responding to Git triggers, human input, dependency chains and environment setup
+        + Responsible for designing & maintaining CI/CD pipelines by responding to Git triggers, human input, dependency chains
         + Also responsible for creating the Ansible equivalents of the shell scripts used for deploying the applications or creating Infrastructures
         + Supporting the engineering teams regarding CI/Build tools, Environments and Automation
         +	Creating Dockerfiles for easier replication of DEV, QA Environments
@@ -118,7 +118,7 @@ experience:
         + Design the architecture for an enterprise Kubernetes infrastructure to support a CI/CD pipelines for CI/CD Engines
         + End-to-end Implementation of the Kubernetes architecture - installation, configuration, networking, etc.
         + Implementing multiple Kubernetes masters for high availability
-        + Configuring persistent storage for Kubernetes clusters/pods, utilizing best practices, configuring NFS, persistent volumes, persistent volume claims for state persistence, etc
+        + Configuring persistent storage for Kubernetes clusters/pods, utilizing best practices, configuring NFS, persistent volumes, persistent volume claims for state persistence, etc.
         + Configuring Kubernetes auto provisioning, and auto scaling of CI/CD job/build agents/runners/nodes
         + Designing and implementing clusters, cluster segmentation, internal/external networking for all CI/CD deployment environments
         + Implementing Kubernetes services and Network Policies; Cluster sizing and scaling
