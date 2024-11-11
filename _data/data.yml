@@ -297,7 +297,7 @@ certificate:
 
   items:
     - name: Azure Administrator Associate
-      issuer: by Microsoft
+      issuer:
       date: November'2024 - November'2025
       link: "https://learn.microsoft.com/api/credentials/share/en-us/RaskinBagde-7499/EE77836C28107C0B?sharingId=7183CB72FD2C67F9"
       description: |
