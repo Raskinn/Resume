@@ -291,11 +291,12 @@ education:
 certificate:
   show: true
   order: 5
-  title: Certifications
+  title: Certification
   description: |
 
   items:
-    - name: "Microsoft Certified: Azure Administrator Associate (AZ - 104)"
+    - name: Azure Administrator Associate (AZ - 104)
+      issuer: by Microsoft
       date: November'2024 - November'2025
       link: "https://bit.ly/3YLeO94"
       description: |
