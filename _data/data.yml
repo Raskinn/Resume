@@ -295,11 +295,11 @@ certificate:
   description: |
 
   items:
-    - name: "Microsoft Certified: Azure Administrator Associate"
+    - name: "Microsoft Certified: Azure Administrator Associate (AZ - 104)"
       date: November'2024 - November'2025
       link: "https://bit.ly/3YLeO94"
       description: |
-        Thrilled to mention that recently passed the Azure Administrator Associate (AZ - 104)
+
     # - name: Example Certificate Two
     #   issuer: by Example
     #   date: 2020
