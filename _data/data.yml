@@ -296,7 +296,6 @@ certificate:
 
   items:
     - name: "Microsoft Certified: Azure Administrator Associate"
-      link:
       date: November'2025
       # link: "https://bit.ly/3YLeO94"
       description: |
