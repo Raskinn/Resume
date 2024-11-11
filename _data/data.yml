@@ -296,7 +296,7 @@ certificate:
 
   items:
     - name: Azure Administrator Associate (AZ - 104)
-      issuer: by Microsoft
+      issuer: Microsoft Certified
       date: November'2024 - November'2025
       link: "https://bit.ly/3YLeO94"
       description: |
