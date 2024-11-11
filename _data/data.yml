@@ -293,14 +293,14 @@ certificate:
   order: 5
   title: Certifications
   description: |
-    Thrilled to mention that recently passed the Azure Administrator Associate (AZ - 104)
 
   items:
     - name: "Microsoft Certified: Azure Administrator Associate"
+      link:
       date: November'2025
-      link: "https://bit.ly/3YLeO94"
+      # link: "https://bit.ly/3YLeO94"
       description: |
-        Azure Administrator Associate (AZ - 104).
+        Thrilled to mention that recently passed the Azure Administrator Associate (AZ - 104)
     # - name: Example Certificate Two
     #   issuer: by Example
     #   date: 2020
