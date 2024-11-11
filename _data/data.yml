@@ -123,13 +123,11 @@ experience:
         + Configuring Kubernetes auto provisioning, and auto scaling of CI/CD job/build agents/runners/nodes
         + Designing and implementing clusters, cluster segmentation, internal/external networking for all CI/CD deployment environments
         + Kubernetes auto provisioning, and auto scaling of CI/CD deployment environments where successful builds are auto deployed
-        + Implementing Kubernetes services and Network Policies
-        + Cluster sizing and scaling
+        + Implementing Kubernetes services and Network Policies; Cluster sizing and scaling
         + Deploying and monitoring the applications in a Kubernetes environment
         + Documenting solutions, architectural patterns, and best practices around the Kubernetes environments
         + Setting up, maintaining and improvising monitoring & alert systems
         + Troubleshooting and resolving issues related to application deployment and operations
-        + Providing documentation and support
         + Setting backups / replications / archiving, to implement disaster recovery
         + Managing patches/software upgrades in servers
         + Working with various cross-functional engineering specialists, project managers and application development teams to define and implement a cloud-based hosting solution
