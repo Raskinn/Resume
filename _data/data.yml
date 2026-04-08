@@ -1,9 +1,9 @@
 basic:
   name: Raskin Bagde # name
   title: Azure DevOps Engineer # job title
-  avatar:
+  avatar: 
     show: true # show or hide avatar
-    path: /assets/images/profile.png # avatar file path
+    path: /assets/images/img.jpg # avatar file path
 
 contact:
   # meta
