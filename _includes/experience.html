@@ -50,6 +50,37 @@
           {{ item.description | markdownify }}
         </div>
         {%- endif %}
+
+        {%- if item.projects %}
+        <div class="projects" style="margin-top: 1rem; border-top: 1px solid rgba(0,0,0,0.1); padding-top: 1rem;">
+          {%- for project in item.projects %}
+          <div class="project-item" style="margin-bottom: 1rem;">
+            {%- if project.name %}
+            <div style="font-weight: 500; margin-bottom: 0.5rem;">
+              <strong>{{ project.name }}</strong>
+              {%- if project.client %} | Client: {{ project.client }}{%- endif %}
+            </div>
+            {%- endif %}
+            {%- if project.role %}
+            <div style="font-size: 0.95rem; color: #666; margin-bottom: 0.25rem;">
+              <strong>Role:</strong> {{ project.role }}
+            </div>
+            {%- endif %}
+            {%- if project.environment %}
+            <div style="font-size: 0.95rem; color: #666; margin-bottom: 0.5rem;">
+              <strong>Environment:</strong> {{ project.environment }}
+            </div>
+            {%- endif %}
+            {%- if project.description %}
+            <div class="description markdown">
+              {{ project.description | markdownify }}
+            </div>
+            {%- endif %}
+          </div>
+          {%- endfor %}
+        </div>
+        {%- endif %}
+
         {%- endif %}
 
       </div>
