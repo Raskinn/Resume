@@ -6,3 +6,5 @@ _site/
 vendor/
 .DS_Store
 Gemfile.lock
+tmp_docx/
+Raskin AzureDevops.pdf
