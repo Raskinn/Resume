@@ -104,10 +104,10 @@ experience:
       location: Remote, India
       description: |
         Key Roles and Responsibilities:
-        + As a DevOps Engineer my roles and responsibilities revolve around building and deploying Applications.
+        + As a DevOps Engineer my roles and responsibilities revolve around building and deploying various Applications.
         + Also worked with Development and Testing Teams to establish a build schedule, execute the builds, and troubleshoot build failures.
         + Experience in Implementing Continuous Integration pipeline with Azure DevOps.
-        + Experience in working on version control tools like GIT like Created branches, tagging, and providing access permissions to the developers over branches.
+        + Experience in working on version control tools like GIT where I Created branches, tagging, and providing access permissions to the developers over branches.
         + Hands-on experience in building and managing CI/CD pipelines using Azure DevOps, automating deployments with Terraform, YAML, and PowerShell.
         + Deployed and managed containerized applications using Azure Kubernetes Service (AKS) for scalable and resilient microservices architecture.
         + Implemented CI/CD pipelines to automate AKS deployments using Azure DevOps and GitHub Actions.
@@ -233,26 +233,27 @@ skills:
   show: true
   order: 3
   title: Technical Skills
-  description: |
-    + Utilized Linux skills on deployment servers to ensure that the servers are up and running
-    + Experience in all project phases using Waterfall and Agile Methodologies
-    + Hands on experience with DevOps tools like Git, Maven, Terraform, Ansible, Docker, kubernetes, Elastic Stack (ELK), etc.
-    + Proficient with VCS tools like Git for branching, tagging and version management
-    + Deep knowledge of CI (Continuous Integration) and CD (Continuous Deployment) methodologies with Jenkins and Azure-DevOps
-    + Build Management: Experience in build tools such as Maven, MSBuild, npm, etc.
-    + Proficient with Configuration Management tools such as Ansible, Packer and Terraform
-    + Hands on experience with code coverage tools like SonarQube
-    + Database configuration experience on MySQL
-    + Experience in Jenkins Master-Node for multi machine builds
-    + Proficient in delivering container based deployments using Docker and Kubernetes
-    + Having knowledge on setting up and managing Docker private repositories
-    + Proficient in creating custom Docker images using Dockerfile
-    + Having knowledge on Docker clustering using docker swarm
-    + Proficient with Playbooks development for the automation using Ansible
-    + Ability to automate the repetitive tasks using Azure CLI and PowerShell
-    +	Expertise in Installation, Configuration, Administration and Maintenance of CI/CD tools like Jenkins and Azure-DevOps
-    + Having knowledge on setting up and maintaining ElasticSearch, Redis
-    + Given the situation, I prepare azure-pipelines for Azure DevOps, Manifests for k8s clusters, Dockerfiles for Docker, templates for Terraform, and Playbooks for Ansible
+  #description: |
+    
+  #  + Utilized Linux skills on deployment servers to ensure that the servers are up and running
+  #  + Experience in all project phases using Waterfall and Agile Methodologies
+  #  + Hands on experience with DevOps tools like Git, Maven, Terraform, Ansible, Docker, kubernetes, Elastic Stack (ELK), etc.
+  #  + Proficient with VCS tools like Git for branching, tagging and version management
+  #  + Deep knowledge of CI (Continuous Integration) and CD (Continuous Deployment) methodologies with Jenkins and Azure-DevOps
+  #  + Build Management: Experience in build tools such as Maven, MSBuild, npm, etc.
+  #  + Proficient with Configuration Management tools such as Ansible, Packer and Terraform
+  #  + Hands on experience with code coverage tools like SonarQube
+  #  + Database configuration experience on MySQL
+  #  + Experience in Jenkins Master-Node for multi machine builds
+  #  + Proficient in delivering container based deployments using Docker and Kubernetes
+  #  + Having knowledge on setting up and managing Docker private repositories
+  #  + Proficient in creating custom Docker images using Dockerfile
+  #  + Having knowledge on Docker clustering using docker swarm
+  #  + Proficient with Playbooks development for the automation using Ansible
+  #  + Ability to automate the repetitive tasks using Azure CLI and PowerShell
+  #  +	Expertise in Installation, Configuration, Administration and Maintenance of CI/CD tools like Jenkins and Azure-DevOps
+  #  + Having knowledge on setting up and maintaining ElasticSearch, Redis
+  #  + Given the situation, I prepare azure-pipelines for Azure DevOps, Manifests for k8s clusters, Dockerfiles for Docker, templates for Terraform, and Playbooks for Ansible
 
   # items:
   #   - name: Skill A
@@ -277,29 +278,29 @@ skills:
   groups:
     - name: Cloud Platform
       item:
-        - Azure
+        - Microsoft Azure
 
-    - name: Version Control System
+    - name: SCM Tools
       item:
-        - Git
         - GitHub
+        - Azure Repos
 
     - name: CI/CD Engines
       item:
-        - Jenkins
         - Azure DevOps
+        - Jenkins
 
-    - name: Containerization & Orchestration
+    - name: Containerization & Orchestration Tools
       item:
         - Docker
         - Kubernetes
 
-    - name: Configuration Management
+    - name: Configuration Management Tools
       item:
         - Ansible
         - Terraform
 
-    - name: Automation
+    - name: Automation Tools
       item:
         - Bash/Shell Scripting
 
@@ -307,7 +308,7 @@ skills:
       item:
         - Azure Monitor
         - Application Insights
-        - Azure Log Analytics
+        #- Azure Log Analytics
 
 education:
   show: true
