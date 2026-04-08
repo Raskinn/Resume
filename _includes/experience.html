@@ -52,10 +52,12 @@
         <div class="projects" style="margin-top: 1rem; border-top: 1px solid rgba(0,0,0,0.1); padding-top: 1rem;">
           {%- for project in item.projects %}
           <div class="project-item" style="margin-bottom: 1rem;">
-            {%- if project.name %}
+            {%- if project.name or project.client %}
             <div style="font-weight: 500; margin-bottom: 0.5rem;">
-              <strong>{{ project.name }}</strong>
-              {%- if project.client %} | Client: {{ project.client }}{%- endif %}
+              {%- if project.name %}<strong>{{ project.name }}</strong>{%- endif %}
+              {%- if project.client %}
+                {%- if project.name %} | {% endif %}<strong>Client: {{ project.client }}</strong>
+              {%- endif %}
             </div>
             {%- endif %}
             {%- if project.role %}
