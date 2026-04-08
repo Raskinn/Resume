@@ -214,7 +214,7 @@ experience:
     show: true
     order: 4
     title: Projects
-    description: |
+    description: Projects showcase the detailed work completed for major clients during my professional career.
     items:
       - name: Mitra Tech
         client: Mitra Tech
