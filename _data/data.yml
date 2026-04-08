@@ -217,6 +217,8 @@ experience:
     description: Projects showcase the detailed work completed for major clients during my professional career.
     items:
       - name: Mitra Tech
+        link:
+        tags:
         client: Mitra Tech
         role: Software Engineer
         environment: Azure IaaS, Azure DevOps, Terraform, Docker, Kubernetes
@@ -236,6 +238,8 @@ experience:
           + Monitoring and system tuning, Patch installation and management, Performance monitoring of Virtual memory, Disk & CPU utilization.
 
       - name: Convergys
+        link:
+        tags:
         client: Convergys
         role: Software Engineer
         environment: Azure PaaS, Jenkins, Azure AD, GitHub, Terraform, Docker, Kubernetes
@@ -261,6 +265,8 @@ experience:
           + Preparing the recovery services vault and finalizing the azure resources.
 
       - name: Xebia
+        link:
+        tags:
         client: Xebia
         role: Assistant Support Engineer
         environment: Linux Administration, Shell Scripting, Azure Cloud Services, CI/CD Pipelines
@@ -276,7 +282,7 @@ experience:
           + Responsible for Build and Install Schedules using Cron jobs.
 
 skills:
-  show: false
+  show: true
   order: 3
   title: Technical Skills
   description: |
@@ -371,7 +377,7 @@ education:
       description: |
         + Completed Bachelor of Engineering in Information Technology from R.T.M. Nagpur University.
 
-    - institution: Chhattisgarh Board of Secondary Education
+    #- institution: Chhattisgarh Board of Secondary Education
       link:
       date: March'2009
       major: Science
