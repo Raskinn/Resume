@@ -17,6 +17,9 @@
     <div class="items">
       {%- for item in experience.items %}
       <div class="item">
+        <div class="index-badge" style="display: inline-block; background: #007bff; color: white; border-radius: 50%; width: 28px; height: 28px; line-height: 28px; text-align: center; font-weight: bold; margin-right: 10px; margin-bottom: 10px; font-size: 12px;">
+          {{ forloop.index }}
+        </div>
 
         {%- if item.company %}
         <div class="row">
