@@ -378,12 +378,12 @@ education:
         + Completed Bachelor of Engineering in Information Technology from R.T.M. Nagpur University.
 
     #- institution: Chhattisgarh Board of Secondary Education
-      link:
-      date: March'2009
-      major: Science
-      degree: High School
-      description: |
-        + Completed High school from CGBSE
+    #  link: "#"
+    #  date: March'2009
+    #  major: Science
+    #  degree: High School
+    #  description: |
+    #    + Completed High school from CGBSE
 
 certificate:
   show: false
