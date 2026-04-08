@@ -45,12 +45,6 @@
           </div>
         </div>
 
-        {%- if item.description.size > 0 %}
-        <div class="description markdown">
-          {{ item.description | markdownify }}
-        </div>
-        {%- endif %}
-
         {%- if item.projects %}
         <div class="projects" style="margin-top: 1rem; border-top: 1px solid rgba(0,0,0,0.1); padding-top: 1rem;">
           {%- for project in item.projects %}
@@ -78,6 +72,12 @@
             {%- endif %}
           </div>
           {%- endfor %}
+        </div>
+        {%- endif %}
+
+        {%- if item.description.size > 0 %}
+        <div class="description markdown" style="margin-top: 1rem; border-top: 1px solid rgba(0,0,0,0.1); padding-top: 1rem;">
+          {{ item.description | markdownify }}
         </div>
         {%- endif %}
 
