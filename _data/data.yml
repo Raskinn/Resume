@@ -199,7 +199,7 @@ project:
       role: Software Engineer
       environment: Azure IaaS, Azure DevOps, Terraform, Docker, Kubernetes
       description: |
-        + As a DevOps Engineer, responsibilities revolve around building and deploying Applications.
+        + As a DevOps Engineer, my roles and responsibilities revolve around building and deploying Applications.
         + Worked with Development and Testing Teams to establish a build schedule, execute the builds, and troubleshoot build failures.
         + Experience in Implementing Continuous Integration pipeline with Azure DevOps.
         + Experience in working on version control tools like GIT - created branches, tagging, and provided access permissions to developers.
@@ -302,41 +302,40 @@ skills:
   #   - name: Skill I
   #     level: 3
 
+  groups:
+    - name: Cloud Platform
+      item:
+        - Azure
 
-groups:
-  - name: Cloud Platform
-    item:
-      - Azure
+    - name: Version Control System
+      item:
+        - Git
+        - GitHub
 
-  - name: Version Control System
-    item:
-      - Git
-      - GitHub
+    - name: CI/CD Engines
+      item:
+        - Jenkins
+        - Azure DevOps
 
-  - name: CI/CD Engines
-    item:
-      - Jenkins
-      - Azure DevOps
+    - name: Containerization & Orchestration
+      item:
+        - Docker
+        - Kubernetes
 
-  - name: Containerization & Orchestration
-    item:
-      - Docker
-      - Kubernetes
+    - name: Configuration Management
+      item:
+        - Ansible
+        - Terraform
 
-  - name: Configuration Management
-    item:
-      - Ansible
-      - Terraform
+    - name: Automation
+      item:
+        - Bash/Shell Scripting
 
-  - name: Automation
-    item:
-      - Bash/Shell Scripting
-
-  - name: Monitoring Tools
-    item:
-      - Azure Monitor
-      - Application Insights
-      - Azure Log Analytics
+    - name: Monitoring Tools
+      item:
+        - Azure Monitor
+        - Application Insights
+        - Azure Log Analytics
 
 education:
   show: true
