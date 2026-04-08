@@ -104,32 +104,21 @@ experience:
       location: Remote, India
       description: |
         Key Roles and Responsibilities:
-        + Working with cross functional, geographically distributed team to provide 24x7 deployment support across multiple environments
-        + Participation in project meetings with other technical staff and business/product owners and subject matter experts
-        +	Build engineering automation and productivity tools to streamline deployment pipeline
-        + Setting up DEV, QA and UAT environments for each sprint
-        + Responsible for deploying applications using CI/CD Engines across various technologies
-        + Automating the CI/CD pipelines and sharing the secured packages/softwares across the relevant teams
-        + Responsible for designing & maintaining CI/CD pipelines by responding to Git triggers, human input, dependency chains
-        + Also responsible for creating the Ansible equivalents of the shell scripts used for deploying the applications or creating Infrastructures
-        + Supporting the engineering teams regarding CI/Build tools, Environments and Automation
-        +	Creating Dockerfiles for easier replication of DEV, QA Environments
-        + Creating kubernetes infrastructure across various platforms including AKS
-        + Design the architecture for an enterprise Kubernetes infrastructure to support a CI/CD pipelines for CI/CD Engines
-        + End-to-end Implementation of the Kubernetes architecture - installation, configuration, networking, etc.
-        + Implementing multiple Kubernetes masters for high availability
-        + Configuring persistent storage for Kubernetes clusters/pods, utilizing best practices, configuring NFS, persistent volumes, persistent volume claims for state persistence, etc.
-        + Configuring Kubernetes auto provisioning, and auto scaling of CI/CD job/build agents/runners/nodes
-        + Designing and implementing clusters, cluster segmentation, internal/external networking for all CI/CD deployment environments
-        + Implementing Kubernetes services and Network Policies; Cluster sizing and scaling
-        + Deploying and monitoring the applications in a Kubernetes environment
-        + Documenting solutions, architectural patterns, and best practices around the Kubernetes environments
-        + Setting up, maintaining and improvising monitoring & alert systems
-        + Troubleshooting and resolving issues related to application deployment and operations
-        + Setting backups / replications / archiving, to implement disaster recovery
-        + Managing patches/software upgrades in servers
-        + Working with various cross-functional engineering specialists, project managers and application development teams to define and implement a cloud-based hosting solution
-        + Reviewing the technical architecture requirements to assess the DevOps Activities
+        + As a DevOps Engineer my roles and responsibilities revolve around building and deploying Applications.
+        + Also worked with Development and Testing Teams to establish a build schedule, execute the builds, and troubleshoot build failures.
+        + Experience in Implementing Continuous Integration pipeline with Azure DevOps.
+        + Experience in working on version control tools like GIT like Created branches, tagging, and providing access permissions to the developers over branches.
+        + Hands-on experience in building and managing CI/CD pipelines using Azure DevOps, automating deployments with Terraform, YAML, and PowerShell.
+        + Deployed and managed containerized applications using Azure Kubernetes Service (AKS) for scalable and resilient microservices architecture.
+        + Implemented CI/CD pipelines to automate AKS deployments using Azure DevOps and GitHub Actions.
+        + Configured node pools, autoscaling, and resource limits in AKS to optimize performance and cost.
+        + Integrated AKS with Azure Monitor and Log Analytics for real-time observability and diagnostics.
+        + Managed AKS networking with Azure CNI, Ingress controllers, and private cluster configurations for secure access.
+        + Automated multi-subscription management in Azure Classic Portal using PowerShell scripts and publish settings files.
+        + Created and managed Azure Active Directory (Azure AD) users via Azure Portal and PowerShell for seamless identity and access management.
+        + Monitoring and system tuning Patch installation and management
+        + Monitoring system Performance of Virtual memory, Disk & CPU utilization.
+        + Integrated Azure Monitor and Log Analytics to enhance real-time monitoring, troubleshooting, and performance optimization for Kubernetes workloads.
 
       projects:
         - name: 
@@ -159,29 +148,24 @@ experience:
       location: Remote, India
       description: |
         Key Roles and Responsibilities:
-        + Involved in hosting and deploying applications to Azure (PaaS/IaaS) and configuring Azure AD.
-        + Created Network Security Groups and inbound rules; authored reusable Terraform modules for multi-environment provisioning.
-        + Integrated Git with Jenkins for automated build triggers; maintained Terraform scripts and ARM templates.
-        + Deployed and managed containerized applications on AKS; configured HPA, node pools, and monitoring via Azure Monitor and Log Analytics.
-        + Automated subscription management and Azure AD user provisioning using PowerShell; prepared recovery services vaults.
         + Involved in the process of hosting/deploying the entire application into Azure Cloud.
         + Responsible for creating Network Security Groups and adding inbound rules.
         + Designed and implemented reusable Terraform modules for provisioning infrastructure across multiple environments, ensuring consistency and scalability.
-        + Worked on GIT integration via Jenkins - developer commits on a GIT repository triggers a Jenkins build pipeline automatically.
+        + Worked on GIT integration via Jenkins developer commits on a GIT repository triggers a Jenkins build pipeline automatically.
         + Automated infrastructure deployment in Azure using Infrastructure as Code (IaC) principles with Terraform, including resource groups, virtual networks, and storage accounts.
-        + Maintained and version controlled Terraform scripts to track and manage infrastructure changes.
+        + Maintained and Version controlled Terraform scripts to track and manage infrastructure changes.
         + Developed custom Terraform modules to simplify the provisioning of Azure Kubernetes Service (AKS) clusters and associated resources.
         + Conducted reviews and improvements for Terraform scripts to optimize infrastructure deployment and ensure alignment with organizational best practices.
         + Deployed and managed containerized applications on Azure Kubernetes Service (AKS), optimizing performance and resource utilization.
         + Implemented Kubernetes configurations including deployments, services, ConfigMaps, and Secrets to manage application workloads.
         + Monitored and maintained Kubernetes clusters using tools like kubectl and integrated monitoring solutions.
         + Automated application scaling and resource allocation by configuring Kubernetes Horizontal Pod Autoscalers (HPA).
-        + Created ARM templates to reuse similar deployments with standard configurations and naming conventions.
+        + Create ARM templates to reuse   similar deployments with some standard configurations and naming conventions.
         + Evaluation of Azure VMSS to auto scale up/down Azure VM workloads.
-        + Created PowerShell scripts to manage multiple subscriptions in Classic portal using publish settings files.
+        + Created PowerShell scripts to manage multiple subscriptions in Classic portal using publish settings file.
         + Created users in Azure AD from Portal as well as from PowerShell.
-        + Created Azure NIC, Azure Virtual networks, Azure VMs and provided access to users.
-        + Created web apps for developers to do development work.
+        + Created Azure NIC, Azure Virtual networks, Azure VM's and provide access users
+        + Create web apps for developers to do development work.
         + Preparing the recovery services vault and finalizing the azure resources.
 
       projects:
@@ -218,12 +202,8 @@ experience:
       location: Pune, India
       description: |
         Key Roles and Responsibilities:
-        + Installed and maintained server hardware and software; managed backups and restorations.
-        + Performed Linux server administration, patching, and security audits; monitored system performance.
-        + Assisted in VM setup and deployment; managed configuration backups and automation with shell scripts.
-        + Responsible for build and install schedules using cron jobs and supporting daily system availability.
-        + Install and maintain all server hardware and software systems, as well as manage server performance and availability.
-        + Maintain all system backups and aid in the restoration of all operations, as well as give all users the necessary training.
+        + Install and maintain all the server hardwares and software systems, as well as manage server performance and availability.
+        + Maintain all system backups and aid in the restoration of all operations, as well as give all the users with the necessary training.
         + Monitor daily systems, evaluate the availability of all server resources, and carry out all Linux server tasks.
         + Test all the new software, maintain patches for management services, and conduct audits on all security procedures.
         + Assist in the setup and deployment of all virtual machines, as well as the installation and backup of all configuration procedures.
